@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zeyongj/LeetCode2/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1446-consecutive-characters](https://github.com/zeyongj/LeetCode2/tree/master/1446-consecutive-characters) |
 | [1987-number-of-unique-good-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1987-number-of-unique-good-subsequences) |
 ## Dynamic Programming
 |  |
