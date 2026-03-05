@@ -10,6 +10,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1987-number-of-unique-good-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1987-number-of-unique-good-subsequences) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,10 +24,12 @@
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/zeyongj/LeetCode2/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/zeyongj/LeetCode2/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,4 +84,5 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zeyongj/LeetCode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 <!---LeetCode Topics End-->
