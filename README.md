@@ -26,6 +26,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/zeyongj/LeetCode2/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/zeyongj/LeetCode2/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zeyongj/LeetCode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+## Stack
+|  |
+| ------- |
+| [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 <!---LeetCode Topics End-->
