@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zeyongj/LeetCode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [0848-shifting-letters](https://github.com/zeyongj/LeetCode2/tree/master/0848-shifting-letters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zeyongj/LeetCode2/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Binary Search
@@ -93,4 +95,16 @@
 |  |
 | ------- |
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
+## Tree
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
+## Depth-First Search
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 <!---LeetCode Topics End-->
