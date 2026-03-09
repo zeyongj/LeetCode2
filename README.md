@@ -29,6 +29,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/zeyongj/LeetCode2/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/zeyongj/LeetCode2/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1980-find-unique-binary-string) |
+| [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
@@ -37,6 +38,7 @@
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
 | [1980-find-unique-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1980-find-unique-binary-string) |
+| [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Binary Search
 |  |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zeyongj/LeetCode2/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +96,7 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zeyongj/LeetCode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Stack
 |  |
