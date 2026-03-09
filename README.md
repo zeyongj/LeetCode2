@@ -14,6 +14,7 @@
 | [1980-find-unique-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1980-find-unique-binary-string) |
 | [1987-number-of-unique-good-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1987-number-of-unique-good-subsequences) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [1980-find-unique-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1980-find-unique-binary-string) |
 | [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
 |  |
@@ -59,6 +61,7 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zeyongj/LeetCode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Counting
 |  |
 | ------- |
@@ -100,6 +103,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zeyongj/LeetCode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Stack
 |  |
 | ------- |
@@ -120,4 +124,16 @@
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1980-find-unique-binary-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Radix Sort
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Quickselect
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
