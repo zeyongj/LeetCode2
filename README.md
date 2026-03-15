@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zeyongj/LeetCode2/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1622-fancy-sequence](https://github.com/zeyongj/LeetCode2/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2235-add-two-integers](https://github.com/zeyongj/LeetCode2/tree/master/2235-add-two-integers) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/zeyongj/LeetCode2/tree/master/2844-minimum-operations-to-make-a-special-number) |
@@ -192,4 +193,12 @@
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/zeyongj/LeetCode2/tree/master/0513-find-bottom-left-tree-value) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/zeyongj/LeetCode2/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/zeyongj/LeetCode2/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
