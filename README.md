@@ -16,6 +16,7 @@
 | [1987-number-of-unique-good-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1987-number-of-unique-good-subsequences) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/zeyongj/LeetCode2/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/zeyongj/LeetCode2/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
@@ -27,6 +28,7 @@
 | [0773-sliding-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/0773-sliding-puzzle) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/zeyongj/LeetCode2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1987-number-of-unique-good-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1987-number-of-unique-good-subsequences) |
+| [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/zeyongj/LeetCode2/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/zeyongj/LeetCode2/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -55,6 +57,7 @@
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2454-next-greater-element-iv](https://github.com/zeyongj/LeetCode2/tree/master/2454-next-greater-element-iv) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zeyongj/LeetCode2/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
 | [2709-greatest-common-divisor-traversal](https://github.com/zeyongj/LeetCode2/tree/master/2709-greatest-common-divisor-traversal) |
 | [2906-construct-product-matrix](https://github.com/zeyongj/LeetCode2/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -100,6 +103,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/zeyongj/LeetCode2/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/zeyongj/LeetCode2/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/zeyongj/LeetCode2/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/zeyongj/LeetCode2/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/zeyongj/LeetCode2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -170,6 +174,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/zeyongj/LeetCode2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/zeyongj/LeetCode2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/zeyongj/LeetCode2/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/zeyongj/LeetCode2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -250,6 +255,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
 | [2709-greatest-common-divisor-traversal](https://github.com/zeyongj/LeetCode2/tree/master/2709-greatest-common-divisor-traversal) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/zeyongj/LeetCode2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
