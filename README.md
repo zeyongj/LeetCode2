@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/0583-delete-operation-for-two-strings) |
 | [0848-shifting-letters](https://github.com/zeyongj/LeetCode2/tree/master/0848-shifting-letters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zeyongj/LeetCode2/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zeyongj/LeetCode2/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/0045-jump-game-ii) |
 | [0396-rotate-function](https://github.com/zeyongj/LeetCode2/tree/master/0396-rotate-function) |
+| [0583-delete-operation-for-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/0583-delete-operation-for-two-strings) |
 | [0773-sliding-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/0773-sliding-puzzle) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/zeyongj/LeetCode2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1987-number-of-unique-good-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1987-number-of-unique-good-subsequences) |
