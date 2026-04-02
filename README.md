@@ -39,6 +39,7 @@
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/zeyongj/LeetCode2/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/zeyongj/LeetCode2/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode2/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/zeyongj/LeetCode2/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Array
@@ -79,6 +80,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/zeyongj/LeetCode2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3356-zero-array-transformation-ii](https://github.com/zeyongj/LeetCode2/tree/master/3356-zero-array-transformation-ii) |
 | [3404-count-special-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3404-count-special-subsequences) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode2/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
 | [3546-equal-sum-grid-partition-i](https://github.com/zeyongj/LeetCode2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/zeyongj/LeetCode2/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -210,6 +212,7 @@
 | [2906-construct-product-matrix](https://github.com/zeyongj/LeetCode2/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/zeyongj/LeetCode2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode2/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
 | [3546-equal-sum-grid-partition-i](https://github.com/zeyongj/LeetCode2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/zeyongj/LeetCode2/tree/master/3548-equal-sum-grid-partition-ii) |
