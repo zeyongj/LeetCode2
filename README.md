@@ -16,6 +16,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/zeyongj/LeetCode2/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1980-find-unique-binary-string) |
 | [1987-number-of-unique-good-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1987-number-of-unique-good-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/zeyongj/LeetCode2/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/zeyongj/LeetCode2/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -186,6 +187,7 @@
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/zeyongj/LeetCode2/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 ## Prefix Sum
