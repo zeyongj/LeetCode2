@@ -1,0 +1,4 @@
+class Solution:
+    def minimizeSum(self, A):
+        A.sort()
+        return min(A[-1] - A[2], A[-2] - A[1], A[-3] - A[0])
