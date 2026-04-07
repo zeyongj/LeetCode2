@@ -80,6 +80,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
 | [2709-greatest-common-divisor-traversal](https://github.com/zeyongj/LeetCode2/tree/master/2709-greatest-common-divisor-traversal) |
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2906-construct-product-matrix](https://github.com/zeyongj/LeetCode2/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/zeyongj/LeetCode2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -111,6 +112,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/zeyongj/LeetCode2/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/zeyongj/LeetCode2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3404-count-special-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3404-count-special-subsequences) |
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/zeyongj/LeetCode2/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -187,6 +189,7 @@
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Simulation
 |  |
 | ------- |
