@@ -96,6 +96,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/zeyongj/LeetCode2/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/zeyongj/LeetCode2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/zeyongj/LeetCode2/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/zeyongj/LeetCode2/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/zeyongj/LeetCode2/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3671-sum-of-beautiful-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/zeyongj/LeetCode2/tree/master/3685-subsequence-sum-after-capping-elements) |
@@ -203,6 +204,7 @@
 | [2069-walking-robot-simulation-ii](https://github.com/zeyongj/LeetCode2/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/zeyongj/LeetCode2/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/zeyongj/LeetCode2/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 ## Prefix Sum
 |  |
@@ -305,6 +307,7 @@
 |  |
 | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/zeyongj/LeetCode2/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Radix Sort
 |  |
 | ------- |
