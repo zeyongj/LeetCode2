@@ -19,6 +19,7 @@
 | [1987-number-of-unique-good-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1987-number-of-unique-good-subsequences) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/zeyongj/LeetCode2/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/zeyongj/LeetCode2/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/zeyongj/LeetCode2/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -72,6 +73,7 @@
 | [1980-find-unique-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1980-find-unique-binary-string) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -286,6 +288,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/zeyongj/LeetCode2/tree/master/0513-find-bottom-left-tree-value) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [1145-binary-tree-coloring-game](https://github.com/zeyongj/LeetCode2/tree/master/1145-binary-tree-coloring-game) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/zeyongj/LeetCode2/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Depth-First Search
@@ -294,6 +297,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/zeyongj/LeetCode2/tree/master/0513-find-bottom-left-tree-value) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [1145-binary-tree-coloring-game](https://github.com/zeyongj/LeetCode2/tree/master/1145-binary-tree-coloring-game) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/zeyongj/LeetCode2/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Breadth-First Search
@@ -345,6 +349,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/zeyongj/LeetCode2/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/zeyongj/LeetCode2/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/zeyongj/LeetCode2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -423,5 +428,6 @@
 ## Topological Sort
 |  |
 | ------- |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 <!---LeetCode Topics End-->
