@@ -100,6 +100,7 @@
 | [2906-construct-product-matrix](https://github.com/zeyongj/LeetCode2/tree/master/2906-construct-product-matrix) |
 | [2931-maximum-spending-after-buying-items](https://github.com/zeyongj/LeetCode2/tree/master/2931-maximum-spending-after-buying-items) |
 | [2974-minimum-number-game](https://github.com/zeyongj/LeetCode2/tree/master/2974-minimum-number-game) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3206-alternating-groups-i](https://github.com/zeyongj/LeetCode2/tree/master/3206-alternating-groups-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/zeyongj/LeetCode2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -218,6 +219,7 @@
 | [2235-add-two-integers](https://github.com/zeyongj/LeetCode2/tree/master/2235-add-two-integers) |
 | [2709-greatest-common-divisor-traversal](https://github.com/zeyongj/LeetCode2/tree/master/2709-greatest-common-divisor-traversal) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/zeyongj/LeetCode2/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/zeyongj/LeetCode2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3404-count-special-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3404-count-special-subsequences) |
 | [3671-sum-of-beautiful-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3671-sum-of-beautiful-subsequences) |
@@ -465,4 +467,8 @@
 | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
