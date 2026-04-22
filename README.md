@@ -8,6 +8,7 @@
 | [0657-robot-return-to-origin](https://github.com/zeyongj/LeetCode2/tree/master/0657-robot-return-to-origin) |
 | [0843-guess-the-word](https://github.com/zeyongj/LeetCode2/tree/master/0843-guess-the-word) |
 | [0848-shifting-letters](https://github.com/zeyongj/LeetCode2/tree/master/0848-shifting-letters) |
+| [0972-equal-rational-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0972-equal-rational-numbers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zeyongj/LeetCode2/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zeyongj/LeetCode2/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zeyongj/LeetCode2/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -217,6 +218,7 @@
 | [0396-rotate-function](https://github.com/zeyongj/LeetCode2/tree/master/0396-rotate-function) |
 | [0447-number-of-boomerangs](https://github.com/zeyongj/LeetCode2/tree/master/0447-number-of-boomerangs) |
 | [0843-guess-the-word](https://github.com/zeyongj/LeetCode2/tree/master/0843-guess-the-word) |
+| [0972-equal-rational-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0972-equal-rational-numbers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zeyongj/LeetCode2/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1486-xor-operation-in-an-array) |
