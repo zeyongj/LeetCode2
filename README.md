@@ -102,6 +102,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zeyongj/LeetCode2/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/zeyongj/LeetCode2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/zeyongj/LeetCode2/tree/master/2615-sum-of-distances) |
 | [2709-greatest-common-divisor-traversal](https://github.com/zeyongj/LeetCode2/tree/master/2709-greatest-common-divisor-traversal) |
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -147,6 +148,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/zeyongj/LeetCode2/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2615-sum-of-distances](https://github.com/zeyongj/LeetCode2/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/zeyongj/LeetCode2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3404-count-special-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3404-count-special-subsequences) |
@@ -266,6 +268,7 @@
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2615-sum-of-distances](https://github.com/zeyongj/LeetCode2/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/zeyongj/LeetCode2/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
