@@ -6,6 +6,7 @@
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/zeyongj/LeetCode2/tree/master/0657-robot-return-to-origin) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/zeyongj/LeetCode2/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0843-guess-the-word](https://github.com/zeyongj/LeetCode2/tree/master/0843-guess-the-word) |
 | [0848-shifting-letters](https://github.com/zeyongj/LeetCode2/tree/master/0848-shifting-letters) |
 | [0972-equal-rational-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0972-equal-rational-numbers) |
@@ -442,6 +443,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0777-swap-adjacent-in-lr-string](https://github.com/zeyongj/LeetCode2/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zeyongj/LeetCode2/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2565-subsequence-with-the-minimum-score](https://github.com/zeyongj/LeetCode2/tree/master/2565-subsequence-with-the-minimum-score) |
