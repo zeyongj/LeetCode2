@@ -65,6 +65,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/zeyongj/LeetCode2/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/zeyongj/LeetCode2/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/zeyongj/LeetCode2/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/zeyongj/LeetCode2/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
@@ -332,6 +334,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/zeyongj/LeetCode2/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/zeyongj/LeetCode2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/zeyongj/LeetCode2/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
