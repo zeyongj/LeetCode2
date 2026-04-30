@@ -137,6 +137,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/zeyongj/LeetCode2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/zeyongj/LeetCode2/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/zeyongj/LeetCode2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3643-flip-square-submatrix-vertically](https://github.com/zeyongj/LeetCode2/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/zeyongj/LeetCode2/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/zeyongj/LeetCode2/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -373,6 +374,7 @@
 | [1145-binary-tree-coloring-game](https://github.com/zeyongj/LeetCode2/tree/master/1145-binary-tree-coloring-game) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/zeyongj/LeetCode2/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Depth-First Search
 |  |
@@ -386,6 +388,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/zeyongj/LeetCode2/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/zeyongj/LeetCode2/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Breadth-First Search
 |  |
@@ -538,4 +541,8 @@
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/zeyongj/LeetCode2/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Ordered Set
+|  |
+| ------- |
+| [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
 <!---LeetCode Topics End-->
