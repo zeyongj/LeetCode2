@@ -505,6 +505,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/zeyongj/LeetCode2/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/zeyongj/LeetCode2/tree/master/0125-valid-palindrome) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/zeyongj/LeetCode2/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zeyongj/LeetCode2/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -565,4 +566,8 @@
 |  |
 | ------- |
 | [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/zeyongj/LeetCode2/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
