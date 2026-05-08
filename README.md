@@ -125,6 +125,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zeyongj/LeetCode2/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/zeyongj/LeetCode2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/zeyongj/LeetCode2/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2615-sum-of-distances](https://github.com/zeyongj/LeetCode2/tree/master/2615-sum-of-distances) |
 | [2709-greatest-common-divisor-traversal](https://github.com/zeyongj/LeetCode2/tree/master/2709-greatest-common-divisor-traversal) |
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
@@ -375,6 +376,7 @@
 | [2454-next-greater-element-iv](https://github.com/zeyongj/LeetCode2/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/zeyongj/LeetCode2/tree/master/2463-minimum-total-distance-traveled) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/zeyongj/LeetCode2/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/zeyongj/LeetCode2/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/zeyongj/LeetCode2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2931-maximum-spending-after-buying-items](https://github.com/zeyongj/LeetCode2/tree/master/2931-maximum-spending-after-buying-items) |
