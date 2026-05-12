@@ -101,6 +101,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/zeyongj/LeetCode2/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/zeyongj/LeetCode2/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/zeyongj/LeetCode2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/zeyongj/LeetCode2/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/zeyongj/LeetCode2/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/zeyongj/LeetCode2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/zeyongj/LeetCode2/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -231,6 +232,7 @@
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
 | [1529-minimum-suffix-flips](https://github.com/zeyongj/LeetCode2/tree/master/1529-minimum-suffix-flips) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/zeyongj/LeetCode2/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/zeyongj/LeetCode2/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/zeyongj/LeetCode2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1739-building-boxes](https://github.com/zeyongj/LeetCode2/tree/master/1739-building-boxes) |
@@ -382,6 +384,7 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zeyongj/LeetCode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/zeyongj/LeetCode2/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/zeyongj/LeetCode2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1859-sorting-the-sentence](https://github.com/zeyongj/LeetCode2/tree/master/1859-sorting-the-sentence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
