@@ -102,6 +102,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/zeyongj/LeetCode2/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/zeyongj/LeetCode2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/zeyongj/LeetCode2/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/zeyongj/LeetCode2/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/zeyongj/LeetCode2/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/zeyongj/LeetCode2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/zeyongj/LeetCode2/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -183,6 +184,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/zeyongj/LeetCode2/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1980-find-unique-binary-string) |
 | [1982-find-array-given-subset-sums](https://github.com/zeyongj/LeetCode2/tree/master/1982-find-array-given-subset-sums) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -333,6 +335,7 @@
 | [0848-shifting-letters](https://github.com/zeyongj/LeetCode2/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/zeyongj/LeetCode2/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2420-find-all-good-indices](https://github.com/zeyongj/LeetCode2/tree/master/2420-find-all-good-indices) |
