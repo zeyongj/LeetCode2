@@ -71,6 +71,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/zeyongj/LeetCode2/tree/master/3225-maximum-score-from-grid-operations) |
 | [3277-maximum-xor-score-subarray-queries](https://github.com/zeyongj/LeetCode2/tree/master/3277-maximum-xor-score-subarray-queries) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode2/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3544-subtree-inversion-sum](https://github.com/zeyongj/LeetCode2/tree/master/3544-subtree-inversion-sum) |
 | [3660-jump-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/zeyongj/LeetCode2/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/zeyongj/LeetCode2/tree/master/3685-subsequence-sum-after-capping-elements) |
@@ -157,6 +158,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/zeyongj/LeetCode2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
 | [3488-closest-equal-element-queries](https://github.com/zeyongj/LeetCode2/tree/master/3488-closest-equal-element-queries) |
+| [3544-subtree-inversion-sum](https://github.com/zeyongj/LeetCode2/tree/master/3544-subtree-inversion-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/zeyongj/LeetCode2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/zeyongj/LeetCode2/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/zeyongj/LeetCode2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -428,6 +430,7 @@
 | [1145-binary-tree-coloring-game](https://github.com/zeyongj/LeetCode2/tree/master/1145-binary-tree-coloring-game) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/zeyongj/LeetCode2/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [3544-subtree-inversion-sum](https://github.com/zeyongj/LeetCode2/tree/master/3544-subtree-inversion-sum) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Depth-First Search
@@ -442,6 +445,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/zeyongj/LeetCode2/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/zeyongj/LeetCode2/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [3544-subtree-inversion-sum](https://github.com/zeyongj/LeetCode2/tree/master/3544-subtree-inversion-sum) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Breadth-First Search
