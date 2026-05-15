@@ -422,12 +422,14 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zeyongj/LeetCode2/tree/master/0094-binary-tree-inorder-traversal) |
 | [2454-next-greater-element-iv](https://github.com/zeyongj/LeetCode2/tree/master/2454-next-greater-element-iv) |
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zeyongj/LeetCode2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/zeyongj/LeetCode2/tree/master/0513-find-bottom-left-tree-value) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [1145-binary-tree-coloring-game](https://github.com/zeyongj/LeetCode2/tree/master/1145-binary-tree-coloring-game) |
@@ -439,6 +441,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zeyongj/LeetCode2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/zeyongj/LeetCode2/tree/master/0513-find-bottom-left-tree-value) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [0841-keys-and-rooms](https://github.com/zeyongj/LeetCode2/tree/master/0841-keys-and-rooms) |
@@ -522,6 +525,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zeyongj/LeetCode2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/zeyongj/LeetCode2/tree/master/0513-find-bottom-left-tree-value) |
 | [1145-binary-tree-coloring-game](https://github.com/zeyongj/LeetCode2/tree/master/1145-binary-tree-coloring-game) |
 ## Design
