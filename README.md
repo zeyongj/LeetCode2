@@ -434,6 +434,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/zeyongj/LeetCode2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/zeyongj/LeetCode2/tree/master/0513-find-bottom-left-tree-value) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/zeyongj/LeetCode2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1145-binary-tree-coloring-game](https://github.com/zeyongj/LeetCode2/tree/master/1145-binary-tree-coloring-game) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/zeyongj/LeetCode2/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -447,6 +448,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/zeyongj/LeetCode2/tree/master/0513-find-bottom-left-tree-value) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [0841-keys-and-rooms](https://github.com/zeyongj/LeetCode2/tree/master/0841-keys-and-rooms) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/zeyongj/LeetCode2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1145-binary-tree-coloring-game](https://github.com/zeyongj/LeetCode2/tree/master/1145-binary-tree-coloring-game) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/zeyongj/LeetCode2/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -529,6 +531,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/zeyongj/LeetCode2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/zeyongj/LeetCode2/tree/master/0513-find-bottom-left-tree-value) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/zeyongj/LeetCode2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1145-binary-tree-coloring-game](https://github.com/zeyongj/LeetCode2/tree/master/1145-binary-tree-coloring-game) |
 ## Design
 |  |
