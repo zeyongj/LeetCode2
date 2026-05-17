@@ -149,6 +149,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zeyongj/LeetCode2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/zeyongj/LeetCode2/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3206-alternating-groups-i](https://github.com/zeyongj/LeetCode2/tree/master/3206-alternating-groups-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/zeyongj/LeetCode2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/zeyongj/LeetCode2/tree/master/3225-maximum-score-from-grid-operations) |
@@ -202,6 +203,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/zeyongj/LeetCode2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zeyongj/LeetCode2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/zeyongj/LeetCode2/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3404-count-special-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3404-count-special-subsequences) |
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
 | [3488-closest-equal-element-queries](https://github.com/zeyongj/LeetCode2/tree/master/3488-closest-equal-element-queries) |
@@ -279,6 +281,7 @@
 | [2423-remove-letter-to-equalize-frequency](https://github.com/zeyongj/LeetCode2/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zeyongj/LeetCode2/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/zeyongj/LeetCode2/tree/master/2833-furthest-point-from-origin) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/zeyongj/LeetCode2/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Math
 |  |
