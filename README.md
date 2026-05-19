@@ -513,6 +513,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/zeyongj/LeetCode2/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/zeyongj/LeetCode2/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2951-find-the-peaks](https://github.com/zeyongj/LeetCode2/tree/master/2951-find-the-peaks) |
 | [3404-count-special-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3404-count-special-subsequences) |
@@ -532,6 +533,7 @@
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/zeyongj/LeetCode2/tree/master/0841-keys-and-rooms) |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/zeyongj/LeetCode2/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/zeyongj/LeetCode2/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/zeyongj/LeetCode2/tree/master/2685-count-the-number-of-complete-components) |
