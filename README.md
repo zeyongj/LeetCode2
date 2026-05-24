@@ -618,6 +618,7 @@
 | ------- |
 | [1174-immediate-food-delivery-ii](https://github.com/zeyongj/LeetCode2/tree/master/1174-immediate-food-delivery-ii) |
 | [1321-restaurant-growth](https://github.com/zeyongj/LeetCode2/tree/master/1321-restaurant-growth) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/zeyongj/LeetCode2/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Interactive
 |  |
 | ------- |
