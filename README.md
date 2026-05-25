@@ -48,6 +48,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/zeyongj/LeetCode2/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/zeyongj/LeetCode2/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
+| [3579-minimum-steps-to-convert-string-with-operations](https://github.com/zeyongj/LeetCode2/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3853-merge-close-characters](https://github.com/zeyongj/LeetCode2/tree/master/3853-merge-close-characters) |
 ## Dynamic Programming
 |  |
@@ -77,6 +78,7 @@
 | [3277-maximum-xor-score-subarray-queries](https://github.com/zeyongj/LeetCode2/tree/master/3277-maximum-xor-score-subarray-queries) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode2/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3544-subtree-inversion-sum](https://github.com/zeyongj/LeetCode2/tree/master/3544-subtree-inversion-sum) |
+| [3579-minimum-steps-to-convert-string-with-operations](https://github.com/zeyongj/LeetCode2/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3660-jump-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/zeyongj/LeetCode2/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/zeyongj/LeetCode2/tree/master/3685-subsequence-sum-after-capping-elements) |
