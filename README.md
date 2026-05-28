@@ -7,6 +7,7 @@
 | [0125-valid-palindrome](https://github.com/zeyongj/LeetCode2/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/zeyongj/LeetCode2/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/zeyongj/LeetCode2/tree/master/0282-expression-add-operators) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/zeyongj/LeetCode2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/zeyongj/LeetCode2/tree/master/0657-robot-return-to-origin) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/zeyongj/LeetCode2/tree/master/0777-swap-adjacent-in-lr-string) |
@@ -208,6 +209,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/zeyongj/LeetCode2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0447-number-of-boomerangs](https://github.com/zeyongj/LeetCode2/tree/master/0447-number-of-boomerangs) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [0874-walking-robot-simulation](https://github.com/zeyongj/LeetCode2/tree/master/0874-walking-robot-simulation) |
@@ -664,6 +666,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/zeyongj/LeetCode2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1871-jump-game-vii](https://github.com/zeyongj/LeetCode2/tree/master/1871-jump-game-vii) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [3206-alternating-groups-i](https://github.com/zeyongj/LeetCode2/tree/master/3206-alternating-groups-i) |
