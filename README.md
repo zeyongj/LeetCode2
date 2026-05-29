@@ -51,6 +51,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/zeyongj/LeetCode2/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/zeyongj/LeetCode2/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/zeyongj/LeetCode2/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/zeyongj/LeetCode2/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/zeyongj/LeetCode2/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/zeyongj/LeetCode2/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
@@ -365,6 +366,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/zeyongj/LeetCode2/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
 | ------- |
@@ -536,6 +538,7 @@
 | [0773-sliding-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/0773-sliding-puzzle) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/zeyongj/LeetCode2/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1980-find-unique-binary-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/zeyongj/LeetCode2/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
