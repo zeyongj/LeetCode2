@@ -177,6 +177,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/zeyongj/LeetCode2/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/zeyongj/LeetCode2/tree/master/3161-block-placement-queries) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/zeyongj/LeetCode2/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3206-alternating-groups-i](https://github.com/zeyongj/LeetCode2/tree/master/3206-alternating-groups-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/zeyongj/LeetCode2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -268,6 +269,7 @@
 | [2540-minimum-common-value](https://github.com/zeyongj/LeetCode2/tree/master/2540-minimum-common-value) |
 | [2565-subsequence-with-the-minimum-score](https://github.com/zeyongj/LeetCode2/tree/master/2565-subsequence-with-the-minimum-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/zeyongj/LeetCode2/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [3161-block-placement-queries](https://github.com/zeyongj/LeetCode2/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/zeyongj/LeetCode2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3356-zero-array-transformation-ii](https://github.com/zeyongj/LeetCode2/tree/master/3356-zero-array-transformation-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/zeyongj/LeetCode2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -615,6 +617,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/zeyongj/LeetCode2/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/zeyongj/LeetCode2/tree/master/3161-block-placement-queries) |
 ## Number Theory
 |  |
 | ------- |
@@ -625,6 +628,7 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/zeyongj/LeetCode2/tree/master/3161-block-placement-queries) |
 | [3671-sum-of-beautiful-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3671-sum-of-beautiful-subsequences) |
 ## Memoization
 |  |
