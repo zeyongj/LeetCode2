@@ -165,6 +165,7 @@
 | [2681-power-of-heroes](https://github.com/zeyongj/LeetCode2/tree/master/2681-power-of-heroes) |
 | [2709-greatest-common-divisor-traversal](https://github.com/zeyongj/LeetCode2/tree/master/2709-greatest-common-divisor-traversal) |
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/zeyongj/LeetCode2/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/zeyongj/LeetCode2/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/zeyongj/LeetCode2/tree/master/2784-check-if-array-is-good) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -684,6 +685,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeyongj/LeetCode2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1871-jump-game-vii](https://github.com/zeyongj/LeetCode2/tree/master/1871-jump-game-vii) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/zeyongj/LeetCode2/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3206-alternating-groups-i](https://github.com/zeyongj/LeetCode2/tree/master/3206-alternating-groups-i) |
 ## Topological Sort
 |  |
