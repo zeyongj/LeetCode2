@@ -140,6 +140,7 @@
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/zeyongj/LeetCode2/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/zeyongj/LeetCode2/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/zeyongj/LeetCode2/tree/master/2126-destroying-asteroids) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/zeyongj/LeetCode2/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -293,6 +294,7 @@
 | [1739-building-boxes](https://github.com/zeyongj/LeetCode2/tree/master/1739-building-boxes) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/zeyongj/LeetCode2/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/zeyongj/LeetCode2/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zeyongj/LeetCode2/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/zeyongj/LeetCode2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
@@ -463,6 +465,7 @@
 | [1982-find-array-given-subset-sums](https://github.com/zeyongj/LeetCode2/tree/master/1982-find-array-given-subset-sums) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2126-destroying-asteroids](https://github.com/zeyongj/LeetCode2/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zeyongj/LeetCode2/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
