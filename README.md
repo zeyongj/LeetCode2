@@ -51,6 +51,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/zeyongj/LeetCode2/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/zeyongj/LeetCode2/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/zeyongj/LeetCode2/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/zeyongj/LeetCode2/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/zeyongj/LeetCode2/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/zeyongj/LeetCode2/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
@@ -392,6 +393,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
 | [2974-minimum-number-game](https://github.com/zeyongj/LeetCode2/tree/master/2974-minimum-number-game) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/zeyongj/LeetCode2/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/zeyongj/LeetCode2/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 ## Prefix Sum
