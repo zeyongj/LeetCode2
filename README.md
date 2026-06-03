@@ -9,6 +9,7 @@
 | [0282-expression-add-operators](https://github.com/zeyongj/LeetCode2/tree/master/0282-expression-add-operators) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeyongj/LeetCode2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/0583-delete-operation-for-two-strings) |
+| [0591-tag-validator](https://github.com/zeyongj/LeetCode2/tree/master/0591-tag-validator) |
 | [0657-robot-return-to-origin](https://github.com/zeyongj/LeetCode2/tree/master/0657-robot-return-to-origin) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/zeyongj/LeetCode2/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0796-rotate-string](https://github.com/zeyongj/LeetCode2/tree/master/0796-rotate-string) |
@@ -500,6 +501,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/zeyongj/LeetCode2/tree/master/0094-binary-tree-inorder-traversal) |
+| [0591-tag-validator](https://github.com/zeyongj/LeetCode2/tree/master/0591-tag-validator) |
 | [2454-next-greater-element-iv](https://github.com/zeyongj/LeetCode2/tree/master/2454-next-greater-element-iv) |
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
