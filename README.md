@@ -37,6 +37,7 @@
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/zeyongj/LeetCode2/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/zeyongj/LeetCode2/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/zeyongj/LeetCode2/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/zeyongj/LeetCode2/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -237,6 +238,7 @@
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/zeyongj/LeetCode2/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/zeyongj/LeetCode2/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/zeyongj/LeetCode2/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2540-minimum-common-value](https://github.com/zeyongj/LeetCode2/tree/master/2540-minimum-common-value) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/zeyongj/LeetCode2/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -335,6 +337,7 @@
 | [2183-count-array-pairs-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/zeyongj/LeetCode2/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/zeyongj/LeetCode2/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/zeyongj/LeetCode2/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zeyongj/LeetCode2/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/zeyongj/LeetCode2/tree/master/2547-minimum-cost-to-split-an-array) |
