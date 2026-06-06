@@ -68,6 +68,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/0583-delete-operation-for-two-strings) |
 | [0773-sliding-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/0773-sliding-puzzle) |
 | [0788-rotated-digits](https://github.com/zeyongj/LeetCode2/tree/master/0788-rotated-digits) |
+| [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
 | [0913-cat-and-mouse](https://github.com/zeyongj/LeetCode2/tree/master/0913-cat-and-mouse) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/zeyongj/LeetCode2/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/zeyongj/LeetCode2/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -111,6 +112,7 @@
 | [0447-number-of-boomerangs](https://github.com/zeyongj/LeetCode2/tree/master/0447-number-of-boomerangs) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [0773-sliding-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/0773-sliding-puzzle) |
+| [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
 | [0843-guess-the-word](https://github.com/zeyongj/LeetCode2/tree/master/0843-guess-the-word) |
 | [0848-shifting-letters](https://github.com/zeyongj/LeetCode2/tree/master/0848-shifting-letters) |
 | [0860-lemonade-change](https://github.com/zeyongj/LeetCode2/tree/master/0860-lemonade-change) |
@@ -229,6 +231,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeyongj/LeetCode2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0447-number-of-boomerangs](https://github.com/zeyongj/LeetCode2/tree/master/0447-number-of-boomerangs) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
+| [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
 | [0874-walking-robot-simulation](https://github.com/zeyongj/LeetCode2/tree/master/0874-walking-robot-simulation) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1345-jump-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1345-jump-game-iv) |
@@ -356,6 +359,7 @@
 | [0396-rotate-function](https://github.com/zeyongj/LeetCode2/tree/master/0396-rotate-function) |
 | [0447-number-of-boomerangs](https://github.com/zeyongj/LeetCode2/tree/master/0447-number-of-boomerangs) |
 | [0788-rotated-digits](https://github.com/zeyongj/LeetCode2/tree/master/0788-rotated-digits) |
+| [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
 | [0843-guess-the-word](https://github.com/zeyongj/LeetCode2/tree/master/0843-guess-the-word) |
 | [0913-cat-and-mouse](https://github.com/zeyongj/LeetCode2/tree/master/0913-cat-and-mouse) |
 | [0972-equal-rational-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0972-equal-rational-numbers) |
@@ -388,6 +392,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
 | [1009-complement-of-base-10-integer](https://github.com/zeyongj/LeetCode2/tree/master/1009-complement-of-base-10-integer) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1486-xor-operation-in-an-array) |
@@ -749,4 +754,8 @@
 |  |
 | ------- |
 | [1117-building-h2o](https://github.com/zeyongj/LeetCode2/tree/master/1117-building-h2o) |
+## Bitmask
+|  |
+| ------- |
+| [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
 <!---LeetCode Topics End-->
