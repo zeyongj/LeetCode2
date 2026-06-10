@@ -184,6 +184,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/zeyongj/LeetCode2/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/zeyongj/LeetCode2/tree/master/2784-check-if-array-is-good) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/zeyongj/LeetCode2/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/zeyongj/LeetCode2/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2906-construct-product-matrix](https://github.com/zeyongj/LeetCode2/tree/master/2906-construct-product-matrix) |
 | [2931-maximum-spending-after-buying-items](https://github.com/zeyongj/LeetCode2/tree/master/2931-maximum-spending-after-buying-items) |
