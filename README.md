@@ -227,6 +227,7 @@
 | [3671-sum-of-beautiful-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/zeyongj/LeetCode2/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/zeyongj/LeetCode2/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/zeyongj/LeetCode2/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/zeyongj/LeetCode2/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/zeyongj/LeetCode2/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -334,6 +335,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zeyongj/LeetCode2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/zeyongj/LeetCode2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/zeyongj/LeetCode2/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/zeyongj/LeetCode2/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -346,6 +348,7 @@
 | [2931-maximum-spending-after-buying-items](https://github.com/zeyongj/LeetCode2/tree/master/2931-maximum-spending-after-buying-items) |
 | [2974-minimum-number-game](https://github.com/zeyongj/LeetCode2/tree/master/2974-minimum-number-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/zeyongj/LeetCode2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/zeyongj/LeetCode2/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Counting
 |  |
 | ------- |
@@ -668,6 +671,7 @@
 | ------- |
 | [1622-fancy-sequence](https://github.com/zeyongj/LeetCode2/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/zeyongj/LeetCode2/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/zeyongj/LeetCode2/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Number Theory
 |  |
 | ------- |
