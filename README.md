@@ -401,6 +401,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/zeyongj/LeetCode2/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3404-count-special-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3404-count-special-subsequences) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/zeyongj/LeetCode2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/zeyongj/LeetCode2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/zeyongj/LeetCode2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3671-sum-of-beautiful-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zeyongj/LeetCode2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -554,6 +555,7 @@
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/zeyongj/LeetCode2/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3544-subtree-inversion-sum](https://github.com/zeyongj/LeetCode2/tree/master/3544-subtree-inversion-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/zeyongj/LeetCode2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Depth-First Search
@@ -573,6 +575,7 @@
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/zeyongj/LeetCode2/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/zeyongj/LeetCode2/tree/master/2685-count-the-number-of-complete-components) |
 | [3544-subtree-inversion-sum](https://github.com/zeyongj/LeetCode2/tree/master/3544-subtree-inversion-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/zeyongj/LeetCode2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Breadth-First Search
