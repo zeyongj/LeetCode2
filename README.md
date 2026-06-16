@@ -176,6 +176,7 @@
 | [2547-minimum-cost-to-split-an-array](https://github.com/zeyongj/LeetCode2/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/2553-separate-the-digits-in-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/zeyongj/LeetCode2/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2569-handling-sum-queries-after-update](https://github.com/zeyongj/LeetCode2/tree/master/2569-handling-sum-queries-after-update) |
 | [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/zeyongj/LeetCode2/tree/master/2574-left-and-right-sum-differences) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/zeyongj/LeetCode2/tree/master/2580-count-ways-to-group-overlapping-ranges) |
@@ -693,6 +694,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/zeyongj/LeetCode2/tree/master/1622-fancy-sequence) |
+| [2569-handling-sum-queries-after-update](https://github.com/zeyongj/LeetCode2/tree/master/2569-handling-sum-queries-after-update) |
 | [3161-block-placement-queries](https://github.com/zeyongj/LeetCode2/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/zeyongj/LeetCode2/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Number Theory
