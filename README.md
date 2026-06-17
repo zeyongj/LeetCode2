@@ -61,6 +61,7 @@
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/zeyongj/LeetCode2/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3612-process-string-with-special-operations-i](https://github.com/zeyongj/LeetCode2/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/zeyongj/LeetCode2/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/zeyongj/LeetCode2/tree/master/3838-weighted-word-mapping) |
 | [3853-merge-close-characters](https://github.com/zeyongj/LeetCode2/tree/master/3853-merge-close-characters) |
 ## Dynamic Programming
@@ -449,6 +450,7 @@
 | [2974-minimum-number-game](https://github.com/zeyongj/LeetCode2/tree/master/2974-minimum-number-game) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/zeyongj/LeetCode2/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3612-process-string-with-special-operations-i](https://github.com/zeyongj/LeetCode2/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/zeyongj/LeetCode2/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/zeyongj/LeetCode2/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 | [3838-weighted-word-mapping](https://github.com/zeyongj/LeetCode2/tree/master/3838-weighted-word-mapping) |
