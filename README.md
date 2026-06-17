@@ -425,6 +425,7 @@
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
+| [0868-binary-gap](https://github.com/zeyongj/LeetCode2/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/zeyongj/LeetCode2/tree/master/1009-complement-of-base-10-integer) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1486-xor-operation-in-an-array) |
