@@ -59,6 +59,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/zeyongj/LeetCode2/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/zeyongj/LeetCode2/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/zeyongj/LeetCode2/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3441-minimum-cost-good-caption](https://github.com/zeyongj/LeetCode2/tree/master/3441-minimum-cost-good-caption) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/zeyongj/LeetCode2/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/zeyongj/LeetCode2/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
@@ -99,6 +100,7 @@
 | [3277-maximum-xor-score-subarray-queries](https://github.com/zeyongj/LeetCode2/tree/master/3277-maximum-xor-score-subarray-queries) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/zeyongj/LeetCode2/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode2/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3441-minimum-cost-good-caption](https://github.com/zeyongj/LeetCode2/tree/master/3441-minimum-cost-good-caption) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/zeyongj/LeetCode2/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3544-subtree-inversion-sum](https://github.com/zeyongj/LeetCode2/tree/master/3544-subtree-inversion-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/zeyongj/LeetCode2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
