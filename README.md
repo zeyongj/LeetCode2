@@ -110,6 +110,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/zeyongj/LeetCode2/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/zeyongj/LeetCode2/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/zeyongj/LeetCode2/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zeyongj/LeetCode2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/zeyongj/LeetCode2/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -437,6 +438,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/zeyongj/LeetCode2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/zeyongj/LeetCode2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3671-sum-of-beautiful-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3671-sum-of-beautiful-subsequences) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/zeyongj/LeetCode2/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zeyongj/LeetCode2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/zeyongj/LeetCode2/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
