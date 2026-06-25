@@ -35,6 +35,7 @@
 | [1871-jump-game-vii](https://github.com/zeyongj/LeetCode2/tree/master/1871-jump-game-vii) |
 | [1980-find-unique-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1980-find-unique-binary-string) |
 | [1987-number-of-unique-good-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1987-number-of-unique-good-subsequences) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/zeyongj/LeetCode2/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/zeyongj/LeetCode2/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/zeyongj/LeetCode2/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/zeyongj/LeetCode2/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -163,6 +164,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1914-cyclically-rotating-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1980-find-unique-binary-string) |
 | [1982-find-array-given-subset-sums](https://github.com/zeyongj/LeetCode2/tree/master/1982-find-array-given-subset-sums) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/zeyongj/LeetCode2/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/zeyongj/LeetCode2/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -464,6 +466,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1914-cyclically-rotating-a-grid) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/zeyongj/LeetCode2/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2069-walking-robot-simulation-ii](https://github.com/zeyongj/LeetCode2/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/zeyongj/LeetCode2/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zeyongj/LeetCode2/tree/master/2161-partition-array-according-to-given-pivot) |
