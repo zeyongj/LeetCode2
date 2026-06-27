@@ -264,6 +264,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 | [3838-weighted-word-mapping](https://github.com/zeyongj/LeetCode2/tree/master/3838-weighted-word-mapping) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/zeyongj/LeetCode2/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
