@@ -253,6 +253,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/zeyongj/LeetCode2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zeyongj/LeetCode2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/zeyongj/LeetCode2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3637-trionic-array-i](https://github.com/zeyongj/LeetCode2/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/zeyongj/LeetCode2/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/zeyongj/LeetCode2/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/zeyongj/LeetCode2/tree/master/3655-xor-after-range-multiplication-queries-ii) |
