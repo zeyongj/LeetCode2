@@ -480,6 +480,7 @@
 | [3700-number-of-zigzag-arrays-ii](https://github.com/zeyongj/LeetCode2/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zeyongj/LeetCode2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/zeyongj/LeetCode2/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/zeyongj/LeetCode2/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/zeyongj/LeetCode2/tree/master/3871-count-commas-in-range-ii) |
 ## Bit Manipulation
