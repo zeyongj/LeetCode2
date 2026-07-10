@@ -111,6 +111,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode2/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3441-minimum-cost-good-caption](https://github.com/zeyongj/LeetCode2/tree/master/3441-minimum-cost-good-caption) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/zeyongj/LeetCode2/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zeyongj/LeetCode2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3544-subtree-inversion-sum](https://github.com/zeyongj/LeetCode2/tree/master/3544-subtree-inversion-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/zeyongj/LeetCode2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/zeyongj/LeetCode2/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
@@ -255,6 +256,7 @@
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
 | [3488-closest-equal-element-queries](https://github.com/zeyongj/LeetCode2/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zeyongj/LeetCode2/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zeyongj/LeetCode2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3544-subtree-inversion-sum](https://github.com/zeyongj/LeetCode2/tree/master/3544-subtree-inversion-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/zeyongj/LeetCode2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/zeyongj/LeetCode2/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -363,6 +365,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/zeyongj/LeetCode2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/zeyongj/LeetCode2/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zeyongj/LeetCode2/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zeyongj/LeetCode2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/zeyongj/LeetCode2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/zeyongj/LeetCode2/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3620-network-recovery-pathways](https://github.com/zeyongj/LeetCode2/tree/master/3620-network-recovery-pathways) |
@@ -399,6 +402,7 @@
 | [2931-maximum-spending-after-buying-items](https://github.com/zeyongj/LeetCode2/tree/master/2931-maximum-spending-after-buying-items) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/zeyongj/LeetCode2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/zeyongj/LeetCode2/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zeyongj/LeetCode2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/zeyongj/LeetCode2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zeyongj/LeetCode2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -506,6 +510,7 @@
 | [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/zeyongj/LeetCode2/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/zeyongj/LeetCode2/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zeyongj/LeetCode2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/zeyongj/LeetCode2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Simulation
 |  |
@@ -639,6 +644,7 @@
 | [2974-minimum-number-game](https://github.com/zeyongj/LeetCode2/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zeyongj/LeetCode2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/zeyongj/LeetCode2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zeyongj/LeetCode2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/zeyongj/LeetCode2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/zeyongj/LeetCode2/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zeyongj/LeetCode2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -789,6 +795,7 @@
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/zeyongj/LeetCode2/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zeyongj/LeetCode2/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zeyongj/LeetCode2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/zeyongj/LeetCode2/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/zeyongj/LeetCode2/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3620-network-recovery-pathways](https://github.com/zeyongj/LeetCode2/tree/master/3620-network-recovery-pathways) |
@@ -856,6 +863,7 @@
 | [2565-subsequence-with-the-minimum-score](https://github.com/zeyongj/LeetCode2/tree/master/2565-subsequence-with-the-minimum-score) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/zeyongj/LeetCode2/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3356-zero-array-transformation-ii](https://github.com/zeyongj/LeetCode2/tree/master/3356-zero-array-transformation-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/zeyongj/LeetCode2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zeyongj/LeetCode2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/zeyongj/LeetCode2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/zeyongj/LeetCode2/tree/master/3643-flip-square-submatrix-vertically) |
