@@ -766,6 +766,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/zeyongj/LeetCode2/tree/master/1291-sequential-digits) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/zeyongj/LeetCode2/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/zeyongj/LeetCode2/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2951-find-the-peaks](https://github.com/zeyongj/LeetCode2/tree/master/2951-find-the-peaks) |
