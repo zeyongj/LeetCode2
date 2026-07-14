@@ -109,6 +109,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/zeyongj/LeetCode2/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/zeyongj/LeetCode2/tree/master/3225-maximum-score-from-grid-operations) |
 | [3277-maximum-xor-score-subarray-queries](https://github.com/zeyongj/LeetCode2/tree/master/3277-maximum-xor-score-subarray-queries) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zeyongj/LeetCode2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/zeyongj/LeetCode2/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode2/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3441-minimum-cost-good-caption](https://github.com/zeyongj/LeetCode2/tree/master/3441-minimum-cost-good-caption) |
@@ -252,6 +253,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/zeyongj/LeetCode2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/zeyongj/LeetCode2/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zeyongj/LeetCode2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3356-zero-array-transformation-ii](https://github.com/zeyongj/LeetCode2/tree/master/3356-zero-array-transformation-ii) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/zeyongj/LeetCode2/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3404-count-special-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3404-count-special-subsequences) |
@@ -490,6 +492,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/zeyongj/LeetCode2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/zeyongj/LeetCode2/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zeyongj/LeetCode2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3404-count-special-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3404-count-special-subsequences) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/zeyongj/LeetCode2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/zeyongj/LeetCode2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -846,6 +849,7 @@
 | [2183-count-array-pairs-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2607-make-k-subarray-sums-equal](https://github.com/zeyongj/LeetCode2/tree/master/2607-make-k-subarray-sums-equal) |
 | [2709-greatest-common-divisor-traversal](https://github.com/zeyongj/LeetCode2/tree/master/2709-greatest-common-divisor-traversal) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zeyongj/LeetCode2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/zeyongj/LeetCode2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3671-sum-of-beautiful-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3671-sum-of-beautiful-subsequences) |
 ## Binary Indexed Tree
