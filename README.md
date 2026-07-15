@@ -8,6 +8,7 @@
 | [0273-integer-to-english-words](https://github.com/zeyongj/LeetCode2/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/zeyongj/LeetCode2/tree/master/0282-expression-add-operators) |
 | [0385-mini-parser](https://github.com/zeyongj/LeetCode2/tree/master/0385-mini-parser) |
+| [0392-is-subsequence](https://github.com/zeyongj/LeetCode2/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeyongj/LeetCode2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/0583-delete-operation-for-two-strings) |
 | [0591-tag-validator](https://github.com/zeyongj/LeetCode2/tree/master/0591-tag-validator) |
@@ -82,6 +83,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/zeyongj/LeetCode2/tree/master/0095-unique-binary-search-trees-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/zeyongj/LeetCode2/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/zeyongj/LeetCode2/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0392-is-subsequence](https://github.com/zeyongj/LeetCode2/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/zeyongj/LeetCode2/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/zeyongj/LeetCode2/tree/master/0403-frog-jump) |
 | [0583-delete-operation-for-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/0583-delete-operation-for-two-strings) |
@@ -869,6 +871,7 @@
 | [0061-rotate-list](https://github.com/zeyongj/LeetCode2/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/zeyongj/LeetCode2/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/zeyongj/LeetCode2/tree/master/0392-is-subsequence) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/zeyongj/LeetCode2/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zeyongj/LeetCode2/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/zeyongj/LeetCode2/tree/master/1861-rotating-the-box) |
