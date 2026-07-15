@@ -1,7 +1,3 @@
-class Solution(object):
-    def gcdOfOddEvenSums(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
+class Solution:
+    def gcdOfOddEvenSums(self, n: int) -> int:
         return n
