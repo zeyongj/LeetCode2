@@ -294,6 +294,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/zeyongj/LeetCode2/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3814-maximum-capacity-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/3814-maximum-capacity-within-budget) |
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 | [3838-weighted-word-mapping](https://github.com/zeyongj/LeetCode2/tree/master/3838-weighted-word-mapping) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/zeyongj/LeetCode2/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -383,6 +384,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/zeyongj/LeetCode2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/zeyongj/LeetCode2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/zeyongj/LeetCode2/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3814-maximum-capacity-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/3814-maximum-capacity-within-budget) |
 ## Greedy
 |  |
 | ------- |
@@ -668,6 +670,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/zeyongj/LeetCode2/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/zeyongj/LeetCode2/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
+| [3814-maximum-capacity-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/3814-maximum-capacity-within-budget) |
 ## Stack
 |  |
 | ------- |
@@ -890,6 +893,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/zeyongj/LeetCode2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/zeyongj/LeetCode2/tree/master/3643-flip-square-submatrix-vertically) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/zeyongj/LeetCode2/tree/master/3685-subsequence-sum-after-capping-elements) |
+| [3814-maximum-capacity-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/3814-maximum-capacity-within-budget) |
 ## Database
 |  |
 | ------- |
