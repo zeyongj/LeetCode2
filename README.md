@@ -19,6 +19,7 @@
 | [0843-guess-the-word](https://github.com/zeyongj/LeetCode2/tree/master/0843-guess-the-word) |
 | [0848-shifting-letters](https://github.com/zeyongj/LeetCode2/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/zeyongj/LeetCode2/tree/master/0854-k-similar-strings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/zeyongj/LeetCode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0966-vowel-spellchecker](https://github.com/zeyongj/LeetCode2/tree/master/0966-vowel-spellchecker) |
 | [0972-equal-rational-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0972-equal-rational-numbers) |
 | [1189-maximum-number-of-balloons](https://github.com/zeyongj/LeetCode2/tree/master/1189-maximum-number-of-balloons) |
@@ -396,6 +397,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/0045-jump-game-ii) |
 | [0860-lemonade-change](https://github.com/zeyongj/LeetCode2/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/zeyongj/LeetCode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zeyongj/LeetCode2/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zeyongj/LeetCode2/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
@@ -692,6 +694,7 @@
 | [0234-palindrome-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/0234-palindrome-linked-list) |
 | [0385-mini-parser](https://github.com/zeyongj/LeetCode2/tree/master/0385-mini-parser) |
 | [0591-tag-validator](https://github.com/zeyongj/LeetCode2/tree/master/0591-tag-validator) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/zeyongj/LeetCode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2454-next-greater-element-iv](https://github.com/zeyongj/LeetCode2/tree/master/2454-next-greater-element-iv) |
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
