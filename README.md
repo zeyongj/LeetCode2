@@ -205,6 +205,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2301-match-substring-after-replacement](https://github.com/zeyongj/LeetCode2/tree/master/2301-match-substring-after-replacement) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/zeyongj/LeetCode2/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/zeyongj/LeetCode2/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2420-find-all-good-indices](https://github.com/zeyongj/LeetCode2/tree/master/2420-find-all-good-indices) |
@@ -438,6 +439,7 @@
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/zeyongj/LeetCode2/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2454-next-greater-element-iv](https://github.com/zeyongj/LeetCode2/tree/master/2454-next-greater-element-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -500,6 +502,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/zeyongj/LeetCode2/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2235-add-two-integers](https://github.com/zeyongj/LeetCode2/tree/master/2235-add-two-integers) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/zeyongj/LeetCode2/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2607-make-k-subarray-sums-equal](https://github.com/zeyongj/LeetCode2/tree/master/2607-make-k-subarray-sums-equal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/zeyongj/LeetCode2/tree/master/2651-calculate-delayed-arrival-time) |
 | [2681-power-of-heroes](https://github.com/zeyongj/LeetCode2/tree/master/2681-power-of-heroes) |
@@ -665,6 +668,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/zeyongj/LeetCode2/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2454-next-greater-element-iv](https://github.com/zeyongj/LeetCode2/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/zeyongj/LeetCode2/tree/master/2463-minimum-total-distance-traveled) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/zeyongj/LeetCode2/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -875,6 +879,7 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zeyongj/LeetCode2/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/zeyongj/LeetCode2/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2607-make-k-subarray-sums-equal](https://github.com/zeyongj/LeetCode2/tree/master/2607-make-k-subarray-sums-equal) |
 | [2709-greatest-common-divisor-traversal](https://github.com/zeyongj/LeetCode2/tree/master/2709-greatest-common-divisor-traversal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode2/tree/master/3312-sorted-gcd-pair-queries) |
