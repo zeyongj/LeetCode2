@@ -147,6 +147,7 @@
 | [0764-largest-plus-sign](https://github.com/zeyongj/LeetCode2/tree/master/0764-largest-plus-sign) |
 | [0773-sliding-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/0773-sliding-puzzle) |
 | [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/zeyongj/LeetCode2/tree/master/0810-chalkboard-xor-game) |
 | [0819-most-common-word](https://github.com/zeyongj/LeetCode2/tree/master/0819-most-common-word) |
 | [0843-guess-the-word](https://github.com/zeyongj/LeetCode2/tree/master/0843-guess-the-word) |
 | [0848-shifting-letters](https://github.com/zeyongj/LeetCode2/tree/master/0848-shifting-letters) |
@@ -484,6 +485,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/zeyongj/LeetCode2/tree/master/0788-rotated-digits) |
 | [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/zeyongj/LeetCode2/tree/master/0810-chalkboard-xor-game) |
 | [0843-guess-the-word](https://github.com/zeyongj/LeetCode2/tree/master/0843-guess-the-word) |
 | [0913-cat-and-mouse](https://github.com/zeyongj/LeetCode2/tree/master/0913-cat-and-mouse) |
 | [0972-equal-rational-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0972-equal-rational-numbers) |
@@ -535,6 +537,7 @@
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/zeyongj/LeetCode2/tree/master/0810-chalkboard-xor-game) |
 | [0868-binary-gap](https://github.com/zeyongj/LeetCode2/tree/master/0868-binary-gap) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1009-complement-of-base-10-integer](https://github.com/zeyongj/LeetCode2/tree/master/1009-complement-of-base-10-integer) |
@@ -945,6 +948,7 @@
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/zeyongj/LeetCode2/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0810-chalkboard-xor-game](https://github.com/zeyongj/LeetCode2/tree/master/0810-chalkboard-xor-game) |
 | [0843-guess-the-word](https://github.com/zeyongj/LeetCode2/tree/master/0843-guess-the-word) |
 | [0913-cat-and-mouse](https://github.com/zeyongj/LeetCode2/tree/master/0913-cat-and-mouse) |
 ## String Matching
@@ -1036,4 +1040,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode2/tree/master/3312-sorted-gcd-pair-queries) |
+## Brainteaser
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/zeyongj/LeetCode2/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
