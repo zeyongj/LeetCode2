@@ -138,6 +138,7 @@
 | [0045-jump-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/zeyongj/LeetCode2/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zeyongj/LeetCode2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/zeyongj/LeetCode2/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zeyongj/LeetCode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/zeyongj/LeetCode2/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/zeyongj/LeetCode2/tree/master/0403-frog-jump) |
@@ -310,6 +311,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/zeyongj/LeetCode2/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeyongj/LeetCode2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0447-number-of-boomerangs](https://github.com/zeyongj/LeetCode2/tree/master/0447-number-of-boomerangs) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
@@ -654,6 +656,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/zeyongj/LeetCode2/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zeyongj/LeetCode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/zeyongj/LeetCode2/tree/master/1288-remove-covered-intervals) |
