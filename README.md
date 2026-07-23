@@ -746,6 +746,7 @@
 | [0385-mini-parser](https://github.com/zeyongj/LeetCode2/tree/master/0385-mini-parser) |
 | [0513-find-bottom-left-tree-value](https://github.com/zeyongj/LeetCode2/tree/master/0513-find-bottom-left-tree-value) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
+| [0802-find-eventual-safe-states](https://github.com/zeyongj/LeetCode2/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/zeyongj/LeetCode2/tree/master/0841-keys-and-rooms) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/zeyongj/LeetCode2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1145-binary-tree-coloring-game](https://github.com/zeyongj/LeetCode2/tree/master/1145-binary-tree-coloring-game) |
@@ -770,6 +771,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/zeyongj/LeetCode2/tree/master/0513-find-bottom-left-tree-value) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [0773-sliding-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/0773-sliding-puzzle) |
+| [0802-find-eventual-safe-states](https://github.com/zeyongj/LeetCode2/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/zeyongj/LeetCode2/tree/master/0841-keys-and-rooms) |
 | [0854-k-similar-strings](https://github.com/zeyongj/LeetCode2/tree/master/0854-k-similar-strings) |
 | [0909-snakes-and-ladders](https://github.com/zeyongj/LeetCode2/tree/master/0909-snakes-and-ladders) |
@@ -847,6 +849,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/zeyongj/LeetCode2/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/zeyongj/LeetCode2/tree/master/0841-keys-and-rooms) |
 | [0913-cat-and-mouse](https://github.com/zeyongj/LeetCode2/tree/master/0913-cat-and-mouse) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/zeyongj/LeetCode2/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -994,6 +997,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/zeyongj/LeetCode2/tree/master/0802-find-eventual-safe-states) |
 | [0913-cat-and-mouse](https://github.com/zeyongj/LeetCode2/tree/master/0913-cat-and-mouse) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/zeyongj/LeetCode2/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
