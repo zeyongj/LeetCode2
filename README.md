@@ -895,12 +895,14 @@
 ## Design
 |  |
 | ------- |
+| [0715-range-module](https://github.com/zeyongj/LeetCode2/tree/master/0715-range-module) |
 | [1622-fancy-sequence](https://github.com/zeyongj/LeetCode2/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/zeyongj/LeetCode2/tree/master/2069-walking-robot-simulation-ii) |
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
 ## Segment Tree
 |  |
 | ------- |
+| [0715-range-module](https://github.com/zeyongj/LeetCode2/tree/master/0715-range-module) |
 | [1622-fancy-sequence](https://github.com/zeyongj/LeetCode2/tree/master/1622-fancy-sequence) |
 | [2569-handling-sum-queries-after-update](https://github.com/zeyongj/LeetCode2/tree/master/2569-handling-sum-queries-after-update) |
 | [3161-block-placement-queries](https://github.com/zeyongj/LeetCode2/tree/master/3161-block-placement-queries) |
@@ -1030,6 +1032,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0715-range-module](https://github.com/zeyongj/LeetCode2/tree/master/0715-range-module) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
 ## Linked List
 |  |
