@@ -147,6 +147,7 @@
 | [0447-number-of-boomerangs](https://github.com/zeyongj/LeetCode2/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/zeyongj/LeetCode2/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0764-largest-plus-sign](https://github.com/zeyongj/LeetCode2/tree/master/0764-largest-plus-sign) |
 | [0773-sliding-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/0773-sliding-puzzle) |
 | [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
