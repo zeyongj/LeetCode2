@@ -180,6 +180,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/zeyongj/LeetCode2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/zeyongj/LeetCode2/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/zeyongj/LeetCode2/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/zeyongj/LeetCode2/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/zeyongj/LeetCode2/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/zeyongj/LeetCode2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/zeyongj/LeetCode2/tree/master/1732-find-the-highest-altitude) |
@@ -682,6 +683,7 @@
 | [1451-rearrange-words-in-a-sentence](https://github.com/zeyongj/LeetCode2/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/zeyongj/LeetCode2/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/zeyongj/LeetCode2/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/zeyongj/LeetCode2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/zeyongj/LeetCode2/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/zeyongj/LeetCode2/tree/master/1840-maximum-building-height) |
@@ -855,6 +857,7 @@
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/zeyongj/LeetCode2/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/zeyongj/LeetCode2/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/zeyongj/LeetCode2/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/zeyongj/LeetCode2/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
@@ -871,6 +874,7 @@
 | [0841-keys-and-rooms](https://github.com/zeyongj/LeetCode2/tree/master/0841-keys-and-rooms) |
 | [0913-cat-and-mouse](https://github.com/zeyongj/LeetCode2/tree/master/0913-cat-and-mouse) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/zeyongj/LeetCode2/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/zeyongj/LeetCode2/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/zeyongj/LeetCode2/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/zeyongj/LeetCode2/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -950,6 +954,7 @@
 | [0234-palindrome-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/zeyongj/LeetCode2/tree/master/0392-is-subsequence) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/zeyongj/LeetCode2/tree/master/0777-swap-adjacent-in-lr-string) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/zeyongj/LeetCode2/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zeyongj/LeetCode2/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/zeyongj/LeetCode2/tree/master/1861-rotating-the-box) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
