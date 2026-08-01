@@ -96,6 +96,7 @@
 | [0392-is-subsequence](https://github.com/zeyongj/LeetCode2/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/zeyongj/LeetCode2/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/zeyongj/LeetCode2/tree/master/0403-frog-jump) |
+| [0486-predict-the-winner](https://github.com/zeyongj/LeetCode2/tree/master/0486-predict-the-winner) |
 | [0583-delete-operation-for-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/0583-delete-operation-for-two-strings) |
 | [0764-largest-plus-sign](https://github.com/zeyongj/LeetCode2/tree/master/0764-largest-plus-sign) |
 | [0773-sliding-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/0773-sliding-puzzle) |
@@ -151,6 +152,7 @@
 | [0396-rotate-function](https://github.com/zeyongj/LeetCode2/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/zeyongj/LeetCode2/tree/master/0403-frog-jump) |
 | [0447-number-of-boomerangs](https://github.com/zeyongj/LeetCode2/tree/master/0447-number-of-boomerangs) |
+| [0486-predict-the-winner](https://github.com/zeyongj/LeetCode2/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/zeyongj/LeetCode2/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -514,6 +516,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/zeyongj/LeetCode2/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/zeyongj/LeetCode2/tree/master/0396-rotate-function) |
 | [0447-number-of-boomerangs](https://github.com/zeyongj/LeetCode2/tree/master/0447-number-of-boomerangs) |
+| [0486-predict-the-winner](https://github.com/zeyongj/LeetCode2/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/zeyongj/LeetCode2/tree/master/0788-rotated-digits) |
 | [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
@@ -689,6 +692,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/zeyongj/LeetCode2/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/zeyongj/LeetCode2/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sorting
 |  |
@@ -1011,6 +1015,7 @@
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/zeyongj/LeetCode2/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/zeyongj/LeetCode2/tree/master/0486-predict-the-winner) |
 | [0810-chalkboard-xor-game](https://github.com/zeyongj/LeetCode2/tree/master/0810-chalkboard-xor-game) |
 | [0843-guess-the-word](https://github.com/zeyongj/LeetCode2/tree/master/0843-guess-the-word) |
 | [0913-cat-and-mouse](https://github.com/zeyongj/LeetCode2/tree/master/0913-cat-and-mouse) |
