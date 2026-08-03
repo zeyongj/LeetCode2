@@ -1131,4 +1131,12 @@
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/zeyongj/LeetCode2/tree/master/0810-chalkboard-xor-game) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
