@@ -322,6 +322,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/zeyongj/LeetCode2/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/zeyongj/LeetCode2/tree/master/3715-sum-of-perfect-square-ancestors) |
+| [3731-find-missing-elements](https://github.com/zeyongj/LeetCode2/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeyongj/LeetCode2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/zeyongj/LeetCode2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/zeyongj/LeetCode2/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -389,6 +390,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/zeyongj/LeetCode2/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/zeyongj/LeetCode2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3731-find-missing-elements](https://github.com/zeyongj/LeetCode2/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeyongj/LeetCode2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/zeyongj/LeetCode2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/zeyongj/LeetCode2/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -756,6 +758,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/zeyongj/LeetCode2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/zeyongj/LeetCode2/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/zeyongj/LeetCode2/tree/master/3685-subsequence-sum-after-capping-elements) |
+| [3731-find-missing-elements](https://github.com/zeyongj/LeetCode2/tree/master/3731-find-missing-elements) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3814-maximum-capacity-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/3814-maximum-capacity-within-budget) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
