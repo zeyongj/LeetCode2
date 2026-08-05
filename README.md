@@ -147,6 +147,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/zeyongj/LeetCode2/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/zeyongj/LeetCode2/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/zeyongj/LeetCode2/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zeyongj/LeetCode2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -337,6 +338,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/zeyongj/LeetCode2/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/zeyongj/LeetCode2/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeyongj/LeetCode2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0447-number-of-boomerangs](https://github.com/zeyongj/LeetCode2/tree/master/0447-number-of-boomerangs) |
@@ -663,6 +665,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/zeyongj/LeetCode2/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/zeyongj/LeetCode2/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zeyongj/LeetCode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0773-sliding-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/0773-sliding-puzzle) |
