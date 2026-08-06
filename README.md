@@ -10,6 +10,7 @@
 | [0385-mini-parser](https://github.com/zeyongj/LeetCode2/tree/master/0385-mini-parser) |
 | [0392-is-subsequence](https://github.com/zeyongj/LeetCode2/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeyongj/LeetCode2/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0500-keyboard-row](https://github.com/zeyongj/LeetCode2/tree/master/0500-keyboard-row) |
 | [0583-delete-operation-for-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/0583-delete-operation-for-two-strings) |
 | [0591-tag-validator](https://github.com/zeyongj/LeetCode2/tree/master/0591-tag-validator) |
 | [0657-robot-return-to-origin](https://github.com/zeyongj/LeetCode2/tree/master/0657-robot-return-to-origin) |
@@ -157,6 +158,7 @@
 | [0403-frog-jump](https://github.com/zeyongj/LeetCode2/tree/master/0403-frog-jump) |
 | [0447-number-of-boomerangs](https://github.com/zeyongj/LeetCode2/tree/master/0447-number-of-boomerangs) |
 | [0486-predict-the-winner](https://github.com/zeyongj/LeetCode2/tree/master/0486-predict-the-winner) |
+| [0500-keyboard-row](https://github.com/zeyongj/LeetCode2/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/zeyongj/LeetCode2/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -342,6 +344,7 @@
 | [0217-contains-duplicate](https://github.com/zeyongj/LeetCode2/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeyongj/LeetCode2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0447-number-of-boomerangs](https://github.com/zeyongj/LeetCode2/tree/master/0447-number-of-boomerangs) |
+| [0500-keyboard-row](https://github.com/zeyongj/LeetCode2/tree/master/0500-keyboard-row) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
 | [0819-most-common-word](https://github.com/zeyongj/LeetCode2/tree/master/0819-most-common-word) |
