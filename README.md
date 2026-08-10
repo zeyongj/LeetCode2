@@ -18,6 +18,7 @@
 | [0796-rotate-string](https://github.com/zeyongj/LeetCode2/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/zeyongj/LeetCode2/tree/master/0819-most-common-word) |
 | [0843-guess-the-word](https://github.com/zeyongj/LeetCode2/tree/master/0843-guess-the-word) |
+| [0844-backspace-string-compare](https://github.com/zeyongj/LeetCode2/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/zeyongj/LeetCode2/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/zeyongj/LeetCode2/tree/master/0854-k-similar-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/zeyongj/LeetCode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -624,6 +625,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/zeyongj/LeetCode2/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/zeyongj/LeetCode2/tree/master/0844-backspace-string-compare) |
 | [0874-walking-robot-simulation](https://github.com/zeyongj/LeetCode2/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/zeyongj/LeetCode2/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode2/tree/master/1441-build-an-array-with-stack-operations) |
@@ -789,6 +791,7 @@
 | [0234-palindrome-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/0234-palindrome-linked-list) |
 | [0385-mini-parser](https://github.com/zeyongj/LeetCode2/tree/master/0385-mini-parser) |
 | [0591-tag-validator](https://github.com/zeyongj/LeetCode2/tree/master/0591-tag-validator) |
+| [0844-backspace-string-compare](https://github.com/zeyongj/LeetCode2/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/zeyongj/LeetCode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeyongj/LeetCode2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode2/tree/master/1441-build-an-array-with-stack-operations) |
@@ -1023,6 +1026,7 @@
 | [0234-palindrome-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/zeyongj/LeetCode2/tree/master/0392-is-subsequence) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/zeyongj/LeetCode2/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0844-backspace-string-compare](https://github.com/zeyongj/LeetCode2/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/zeyongj/LeetCode2/tree/master/0942-di-string-match) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/zeyongj/LeetCode2/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zeyongj/LeetCode2/tree/master/1855-maximum-distance-between-a-pair-of-values) |
