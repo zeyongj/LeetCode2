@@ -1175,12 +1175,14 @@
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/zeyongj/LeetCode2/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/zeyongj/LeetCode2/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1510-stone-game-iv) |
