@@ -51,6 +51,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/zeyongj/LeetCode2/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/zeyongj/LeetCode2/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/zeyongj/LeetCode2/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/zeyongj/LeetCode2/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/zeyongj/LeetCode2/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -238,6 +239,7 @@
 | [2183-count-array-pairs-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/zeyongj/LeetCode2/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/zeyongj/LeetCode2/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/zeyongj/LeetCode2/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -994,6 +996,7 @@
 | ------- |
 | [0715-range-module](https://github.com/zeyongj/LeetCode2/tree/master/0715-range-module) |
 | [1622-fancy-sequence](https://github.com/zeyongj/LeetCode2/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/zeyongj/LeetCode2/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2569-handling-sum-queries-after-update](https://github.com/zeyongj/LeetCode2/tree/master/2569-handling-sum-queries-after-update) |
 | [3161-block-placement-queries](https://github.com/zeyongj/LeetCode2/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/zeyongj/LeetCode2/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1137,6 +1140,7 @@
 |  |
 | ------- |
 | [0715-range-module](https://github.com/zeyongj/LeetCode2/tree/master/0715-range-module) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/zeyongj/LeetCode2/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
 ## Linked List
 |  |
