@@ -70,6 +70,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zeyongj/LeetCode2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeyongj/LeetCode2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/zeyongj/LeetCode2/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/zeyongj/LeetCode2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/zeyongj/LeetCode2/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/zeyongj/LeetCode2/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/zeyongj/LeetCode2/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -397,6 +398,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeyongj/LeetCode2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zeyongj/LeetCode2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/zeyongj/LeetCode2/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/zeyongj/LeetCode2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/zeyongj/LeetCode2/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/zeyongj/LeetCode2/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/zeyongj/LeetCode2/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
@@ -1116,6 +1118,7 @@
 | [2398-maximum-number-of-robots-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/zeyongj/LeetCode2/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/zeyongj/LeetCode2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/zeyongj/LeetCode2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/zeyongj/LeetCode2/tree/master/3206-alternating-groups-i) |
 ## Topological Sort
 |  |
