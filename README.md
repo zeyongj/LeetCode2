@@ -232,6 +232,7 @@
 | [1982-find-array-given-subset-sums](https://github.com/zeyongj/LeetCode2/tree/master/1982-find-array-given-subset-sums) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/zeyongj/LeetCode2/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zeyongj/LeetCode2/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2029-stone-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/zeyongj/LeetCode2/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -477,6 +478,7 @@
 | [1739-building-boxes](https://github.com/zeyongj/LeetCode2/tree/master/1739-building-boxes) |
 | [1833-maximum-ice-cream-bars](https://github.com/zeyongj/LeetCode2/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zeyongj/LeetCode2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/2029-stone-game-ix) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/zeyongj/LeetCode2/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/zeyongj/LeetCode2/tree/master/2126-destroying-asteroids) |
@@ -530,6 +532,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/zeyongj/LeetCode2/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zeyongj/LeetCode2/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1982-find-array-given-subset-sums](https://github.com/zeyongj/LeetCode2/tree/master/1982-find-array-given-subset-sums) |
+| [2029-stone-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/2029-stone-game-ix) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/zeyongj/LeetCode2/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
@@ -581,6 +584,7 @@
 | [1840-maximum-building-height](https://github.com/zeyongj/LeetCode2/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zeyongj/LeetCode2/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zeyongj/LeetCode2/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/zeyongj/LeetCode2/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -1099,6 +1103,7 @@
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
 | ------- |
@@ -1209,6 +1214,7 @@
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -1216,6 +1222,7 @@
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/2029-stone-game-ix) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -1228,6 +1235,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
