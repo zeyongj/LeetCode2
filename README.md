@@ -122,6 +122,7 @@
 | [1510-stone-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/zeyongj/LeetCode2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1771-maximize-palindrome-length-from-subsequences) |
+| [1824-minimum-sideway-jumps](https://github.com/zeyongj/LeetCode2/tree/master/1824-minimum-sideway-jumps) |
 | [1871-jump-game-vii](https://github.com/zeyongj/LeetCode2/tree/master/1871-jump-game-vii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1987-number-of-unique-good-subsequences) |
 | [2420-find-all-good-indices](https://github.com/zeyongj/LeetCode2/tree/master/2420-find-all-good-indices) |
@@ -216,6 +217,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/zeyongj/LeetCode2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/zeyongj/LeetCode2/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/zeyongj/LeetCode2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1824-minimum-sideway-jumps](https://github.com/zeyongj/LeetCode2/tree/master/1824-minimum-sideway-jumps) |
 | [1833-maximum-ice-cream-bars](https://github.com/zeyongj/LeetCode2/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/zeyongj/LeetCode2/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zeyongj/LeetCode2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -476,6 +478,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/zeyongj/LeetCode2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1739-building-boxes](https://github.com/zeyongj/LeetCode2/tree/master/1739-building-boxes) |
+| [1824-minimum-sideway-jumps](https://github.com/zeyongj/LeetCode2/tree/master/1824-minimum-sideway-jumps) |
 | [1833-maximum-ice-cream-bars](https://github.com/zeyongj/LeetCode2/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zeyongj/LeetCode2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/2029-stone-game-ix) |
