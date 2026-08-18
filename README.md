@@ -169,6 +169,7 @@
 | [0396-rotate-function](https://github.com/zeyongj/LeetCode2/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/zeyongj/LeetCode2/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/zeyongj/LeetCode2/tree/master/0407-trapping-rain-water-ii) |
+| [0414-third-maximum-number](https://github.com/zeyongj/LeetCode2/tree/master/0414-third-maximum-number) |
 | [0447-number-of-boomerangs](https://github.com/zeyongj/LeetCode2/tree/master/0447-number-of-boomerangs) |
 | [0486-predict-the-winner](https://github.com/zeyongj/LeetCode2/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/zeyongj/LeetCode2/tree/master/0500-keyboard-row) |
@@ -765,6 +766,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/zeyongj/LeetCode2/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zeyongj/LeetCode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/zeyongj/LeetCode2/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/zeyongj/LeetCode2/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1331-rank-transform-of-an-array) |
