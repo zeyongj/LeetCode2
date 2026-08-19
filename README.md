@@ -202,6 +202,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/zeyongj/LeetCode2/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/zeyongj/LeetCode2/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode2/tree/master/1441-build-an-array-with-stack-operations) |
@@ -383,6 +384,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zeyongj/LeetCode2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/zeyongj/LeetCode2/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/zeyongj/LeetCode2/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -478,6 +480,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeyongj/LeetCode2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zeyongj/LeetCode2/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zeyongj/LeetCode2/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1386-cinema-seat-allocation](https://github.com/zeyongj/LeetCode2/tree/master/1386-cinema-seat-allocation) |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
 | [1529-minimum-suffix-flips](https://github.com/zeyongj/LeetCode2/tree/master/1529-minimum-suffix-flips) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/zeyongj/LeetCode2/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -643,6 +646,7 @@
 | [0868-binary-gap](https://github.com/zeyongj/LeetCode2/tree/master/0868-binary-gap) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1009-complement-of-base-10-integer](https://github.com/zeyongj/LeetCode2/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/zeyongj/LeetCode2/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
