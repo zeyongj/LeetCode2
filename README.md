@@ -304,6 +304,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/zeyongj/LeetCode2/tree/master/3093-longest-common-suffix-queries) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zeyongj/LeetCode2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/zeyongj/LeetCode2/tree/master/3161-block-placement-queries) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/zeyongj/LeetCode2/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3206-alternating-groups-i](https://github.com/zeyongj/LeetCode2/tree/master/3206-alternating-groups-i) |
@@ -460,6 +461,7 @@
 | [2565-subsequence-with-the-minimum-score](https://github.com/zeyongj/LeetCode2/tree/master/2565-subsequence-with-the-minimum-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/zeyongj/LeetCode2/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zeyongj/LeetCode2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/zeyongj/LeetCode2/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/zeyongj/LeetCode2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode2/tree/master/3312-sorted-gcd-pair-queries) |
@@ -619,6 +621,7 @@
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/zeyongj/LeetCode2/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zeyongj/LeetCode2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zeyongj/LeetCode2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/zeyongj/LeetCode2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/zeyongj/LeetCode2/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode2/tree/master/3312-sorted-gcd-pair-queries) |
@@ -660,6 +663,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/zeyongj/LeetCode2/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zeyongj/LeetCode2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/zeyongj/LeetCode2/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/zeyongj/LeetCode2/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/zeyongj/LeetCode2/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1057,6 +1061,7 @@
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/zeyongj/LeetCode2/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2607-make-k-subarray-sums-equal](https://github.com/zeyongj/LeetCode2/tree/master/2607-make-k-subarray-sums-equal) |
 | [2709-greatest-common-divisor-traversal](https://github.com/zeyongj/LeetCode2/tree/master/2709-greatest-common-divisor-traversal) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zeyongj/LeetCode2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zeyongj/LeetCode2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/zeyongj/LeetCode2/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -1231,6 +1236,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zeyongj/LeetCode2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/zeyongj/LeetCode2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Brainteaser
