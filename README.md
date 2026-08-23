@@ -691,6 +691,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/zeyongj/LeetCode2/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zeyongj/LeetCode2/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/zeyongj/LeetCode2/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/zeyongj/LeetCode2/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
 | [2974-minimum-number-game](https://github.com/zeyongj/LeetCode2/tree/master/2974-minimum-number-game) |
@@ -1210,6 +1211,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/zeyongj/LeetCode2/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Concurrency
 |  |
 | ------- |
