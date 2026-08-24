@@ -128,6 +128,7 @@
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1824-minimum-sideway-jumps](https://github.com/zeyongj/LeetCode2/tree/master/1824-minimum-sideway-jumps) |
 | [1871-jump-game-vii](https://github.com/zeyongj/LeetCode2/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/zeyongj/LeetCode2/tree/master/1872-stone-game-viii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1987-number-of-unique-good-subsequences) |
 | [2420-find-all-good-indices](https://github.com/zeyongj/LeetCode2/tree/master/2420-find-all-good-indices) |
 | [2463-minimum-total-distance-traveled](https://github.com/zeyongj/LeetCode2/tree/master/2463-minimum-total-distance-traveled) |
@@ -233,6 +234,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/zeyongj/LeetCode2/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zeyongj/LeetCode2/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/zeyongj/LeetCode2/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/zeyongj/LeetCode2/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/zeyongj/LeetCode2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1914-cyclically-rotating-a-grid) |
@@ -610,6 +612,7 @@
 | [1739-building-boxes](https://github.com/zeyongj/LeetCode2/tree/master/1739-building-boxes) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/zeyongj/LeetCode2/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1840-maximum-building-height](https://github.com/zeyongj/LeetCode2/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/zeyongj/LeetCode2/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/zeyongj/LeetCode2/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zeyongj/LeetCode2/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -720,6 +723,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/zeyongj/LeetCode2/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/zeyongj/LeetCode2/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/zeyongj/LeetCode2/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/zeyongj/LeetCode2/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/zeyongj/LeetCode2/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/2398-maximum-number-of-robots-within-budget) |
@@ -1151,6 +1155,7 @@
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/zeyongj/LeetCode2/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/zeyongj/LeetCode2/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/zeyongj/LeetCode2/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/2029-stone-game-ix) |
 ## String Matching
@@ -1267,6 +1272,7 @@
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/zeyongj/LeetCode2/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1275,6 +1281,7 @@
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/zeyongj/LeetCode2/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/2029-stone-game-ix) |
 ## Binary Lifting
 |  |
