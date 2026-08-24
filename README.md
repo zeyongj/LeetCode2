@@ -10,6 +10,7 @@
 | [0385-mini-parser](https://github.com/zeyongj/LeetCode2/tree/master/0385-mini-parser) |
 | [0392-is-subsequence](https://github.com/zeyongj/LeetCode2/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeyongj/LeetCode2/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/zeyongj/LeetCode2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0500-keyboard-row](https://github.com/zeyongj/LeetCode2/tree/master/0500-keyboard-row) |
 | [0583-delete-operation-for-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/0583-delete-operation-for-two-strings) |
 | [0591-tag-validator](https://github.com/zeyongj/LeetCode2/tree/master/0591-tag-validator) |
@@ -872,6 +873,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/zeyongj/LeetCode2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/zeyongj/LeetCode2/tree/master/0095-unique-binary-search-trees-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/zeyongj/LeetCode2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/zeyongj/LeetCode2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/zeyongj/LeetCode2/tree/master/0513-find-bottom-left-tree-value) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/zeyongj/LeetCode2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -891,6 +893,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/zeyongj/LeetCode2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/zeyongj/LeetCode2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0385-mini-parser](https://github.com/zeyongj/LeetCode2/tree/master/0385-mini-parser) |
+| [0449-serialize-and-deserialize-bst](https://github.com/zeyongj/LeetCode2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/zeyongj/LeetCode2/tree/master/0513-find-bottom-left-tree-value) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [0802-find-eventual-safe-states](https://github.com/zeyongj/LeetCode2/tree/master/0802-find-eventual-safe-states) |
@@ -917,6 +920,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/zeyongj/LeetCode2/tree/master/0407-trapping-rain-water-ii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/zeyongj/LeetCode2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/zeyongj/LeetCode2/tree/master/0513-find-bottom-left-tree-value) |
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [0773-sliding-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/0773-sliding-puzzle) |
@@ -1038,6 +1042,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/zeyongj/LeetCode2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/zeyongj/LeetCode2/tree/master/0095-unique-binary-search-trees-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/zeyongj/LeetCode2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/zeyongj/LeetCode2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/zeyongj/LeetCode2/tree/master/0513-find-bottom-left-tree-value) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/zeyongj/LeetCode2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1145-binary-tree-coloring-game](https://github.com/zeyongj/LeetCode2/tree/master/1145-binary-tree-coloring-game) |
@@ -1045,6 +1050,7 @@
 ## Design
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/zeyongj/LeetCode2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0715-range-module](https://github.com/zeyongj/LeetCode2/tree/master/0715-range-module) |
 | [1622-fancy-sequence](https://github.com/zeyongj/LeetCode2/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/zeyongj/LeetCode2/tree/master/2069-walking-robot-simulation-ii) |
@@ -1228,6 +1234,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/zeyongj/LeetCode2/tree/master/0095-unique-binary-search-trees-ii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/zeyongj/LeetCode2/tree/master/0449-serialize-and-deserialize-bst) |
 ## Counting Sort
 |  |
 | ------- |
