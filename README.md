@@ -153,6 +153,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zeyongj/LeetCode2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3544-subtree-inversion-sum](https://github.com/zeyongj/LeetCode2/tree/master/3544-subtree-inversion-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/zeyongj/LeetCode2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode2/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/zeyongj/LeetCode2/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3620-network-recovery-pathways](https://github.com/zeyongj/LeetCode2/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/3660-jump-game-ix) |
@@ -352,6 +353,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/zeyongj/LeetCode2/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/zeyongj/LeetCode2/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3576-transform-array-to-all-equal-elements) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode2/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3620-network-recovery-pathways](https://github.com/zeyongj/LeetCode2/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/zeyongj/LeetCode2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -769,6 +771,7 @@
 | [3356-zero-array-transformation-ii](https://github.com/zeyongj/LeetCode2/tree/master/3356-zero-array-transformation-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/zeyongj/LeetCode2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/zeyongj/LeetCode2/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode2/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/zeyongj/LeetCode2/tree/master/3714-longest-balanced-substring-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeyongj/LeetCode2/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1209,11 +1212,13 @@
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode2/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode2/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1230,6 +1235,7 @@
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/zeyongj/LeetCode2/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/zeyongj/LeetCode2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/zeyongj/LeetCode2/tree/master/3206-alternating-groups-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode2/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Topological Sort
 |  |
 | ------- |
