@@ -625,6 +625,7 @@
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zeyongj/LeetCode2/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/zeyongj/LeetCode2/tree/master/1266-minimum-time-visiting-all-points) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/zeyongj/LeetCode2/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/zeyongj/LeetCode2/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
