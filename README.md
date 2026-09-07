@@ -24,6 +24,7 @@
 | [0848-shifting-letters](https://github.com/zeyongj/LeetCode2/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/zeyongj/LeetCode2/tree/master/0854-k-similar-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/zeyongj/LeetCode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/zeyongj/LeetCode2/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/zeyongj/LeetCode2/tree/master/0942-di-string-match) |
 | [0966-vowel-spellchecker](https://github.com/zeyongj/LeetCode2/tree/master/0966-vowel-spellchecker) |
 | [0972-equal-rational-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0972-equal-rational-numbers) |
@@ -121,6 +122,7 @@
 | [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
 | [0877-stone-game](https://github.com/zeyongj/LeetCode2/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/zeyongj/LeetCode2/tree/master/0913-cat-and-mouse) |
+| [0940-distinct-subsequences-ii](https://github.com/zeyongj/LeetCode2/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/zeyongj/LeetCode2/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/zeyongj/LeetCode2/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
