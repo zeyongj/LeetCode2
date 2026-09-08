@@ -12,6 +12,7 @@
 | [0392-is-subsequence](https://github.com/zeyongj/LeetCode2/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeyongj/LeetCode2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/zeyongj/LeetCode2/tree/master/0449-serialize-and-deserialize-bst) |
+| [0482-license-key-formatting](https://github.com/zeyongj/LeetCode2/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/zeyongj/LeetCode2/tree/master/0500-keyboard-row) |
 | [0583-delete-operation-for-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/0583-delete-operation-for-two-strings) |
 | [0591-tag-validator](https://github.com/zeyongj/LeetCode2/tree/master/0591-tag-validator) |
