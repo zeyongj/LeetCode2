@@ -474,6 +474,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/zeyongj/LeetCode2/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/zeyongj/LeetCode2/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3790-smallest-all-ones-multiple](https://github.com/zeyongj/LeetCode2/tree/master/3790-smallest-all-ones-multiple) |
 | [3853-merge-close-characters](https://github.com/zeyongj/LeetCode2/tree/master/3853-merge-close-characters) |
 ## Binary Search
 |  |
@@ -690,6 +691,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/zeyongj/LeetCode2/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/zeyongj/LeetCode2/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3790-smallest-all-ones-multiple](https://github.com/zeyongj/LeetCode2/tree/master/3790-smallest-all-ones-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/zeyongj/LeetCode2/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/zeyongj/LeetCode2/tree/master/3871-count-commas-in-range-ii) |
