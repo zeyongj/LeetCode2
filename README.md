@@ -935,6 +935,7 @@
 | [1145-binary-tree-coloring-game](https://github.com/zeyongj/LeetCode2/tree/master/1145-binary-tree-coloring-game) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/zeyongj/LeetCode2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/zeyongj/LeetCode2/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/zeyongj/LeetCode2/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3544-subtree-inversion-sum](https://github.com/zeyongj/LeetCode2/tree/master/3544-subtree-inversion-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/zeyongj/LeetCode2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -961,6 +962,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/zeyongj/LeetCode2/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/zeyongj/LeetCode2/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/zeyongj/LeetCode2/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/zeyongj/LeetCode2/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/zeyongj/LeetCode2/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/zeyongj/LeetCode2/tree/master/2685-count-the-number-of-complete-components) |
@@ -1105,6 +1107,7 @@
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/zeyongj/LeetCode2/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1145-binary-tree-coloring-game](https://github.com/zeyongj/LeetCode2/tree/master/1145-binary-tree-coloring-game) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/zeyongj/LeetCode2/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/zeyongj/LeetCode2/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Design
 |  |
 | ------- |
