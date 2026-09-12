@@ -152,6 +152,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/zeyongj/LeetCode2/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zeyongj/LeetCode2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/zeyongj/LeetCode2/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/zeyongj/LeetCode2/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode2/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3441-minimum-cost-good-caption](https://github.com/zeyongj/LeetCode2/tree/master/3441-minimum-cost-good-caption) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/zeyongj/LeetCode2/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
@@ -342,6 +343,7 @@
 | [3356-zero-array-transformation-ii](https://github.com/zeyongj/LeetCode2/tree/master/3356-zero-array-transformation-ii) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/zeyongj/LeetCode2/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3404-count-special-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3404-count-special-subsequences) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/zeyongj/LeetCode2/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode2/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/zeyongj/LeetCode2/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/zeyongj/LeetCode2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -506,6 +508,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/zeyongj/LeetCode2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3356-zero-array-transformation-ii](https://github.com/zeyongj/LeetCode2/tree/master/3356-zero-array-transformation-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/zeyongj/LeetCode2/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/zeyongj/LeetCode2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/zeyongj/LeetCode2/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/zeyongj/LeetCode2/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -897,6 +900,7 @@
 | [2974-minimum-number-game](https://github.com/zeyongj/LeetCode2/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zeyongj/LeetCode2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeyongj/LeetCode2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/zeyongj/LeetCode2/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/zeyongj/LeetCode2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/zeyongj/LeetCode2/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zeyongj/LeetCode2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
