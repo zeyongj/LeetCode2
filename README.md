@@ -169,6 +169,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zeyongj/LeetCode2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/zeyongj/LeetCode2/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3840-house-robber-v](https://github.com/zeyongj/LeetCode2/tree/master/3840-house-robber-v) |
 ## Array
 |  |
 | ------- |
@@ -393,6 +394,7 @@
 | [3814-maximum-capacity-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/3814-maximum-capacity-within-budget) |
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 | [3838-weighted-word-mapping](https://github.com/zeyongj/LeetCode2/tree/master/3838-weighted-word-mapping) |
+| [3840-house-robber-v](https://github.com/zeyongj/LeetCode2/tree/master/3840-house-robber-v) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/zeyongj/LeetCode2/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/zeyongj/LeetCode2/tree/master/3876-construct-uniform-parity-array-ii) |
