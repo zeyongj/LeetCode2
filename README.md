@@ -641,6 +641,7 @@
 | [0788-rotated-digits](https://github.com/zeyongj/LeetCode2/tree/master/0788-rotated-digits) |
 | [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/zeyongj/LeetCode2/tree/master/0810-chalkboard-xor-game) |
+| [0836-rectangle-overlap](https://github.com/zeyongj/LeetCode2/tree/master/0836-rectangle-overlap) |
 | [0843-guess-the-word](https://github.com/zeyongj/LeetCode2/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/zeyongj/LeetCode2/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/zeyongj/LeetCode2/tree/master/0913-cat-and-mouse) |
@@ -1291,6 +1292,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/zeyongj/LeetCode2/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/zeyongj/LeetCode2/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/zeyongj/LeetCode2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
