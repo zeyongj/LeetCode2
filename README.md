@@ -139,6 +139,7 @@
 | [1871-jump-game-vii](https://github.com/zeyongj/LeetCode2/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/zeyongj/LeetCode2/tree/master/1872-stone-game-viii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1987-number-of-unique-good-subsequences) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2420-find-all-good-indices](https://github.com/zeyongj/LeetCode2/tree/master/2420-find-all-good-indices) |
 | [2463-minimum-total-distance-traveled](https://github.com/zeyongj/LeetCode2/tree/master/2463-minimum-total-distance-traveled) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/zeyongj/LeetCode2/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -262,6 +263,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zeyongj/LeetCode2/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/zeyongj/LeetCode2/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/zeyongj/LeetCode2/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -496,6 +498,7 @@
 | [1739-building-boxes](https://github.com/zeyongj/LeetCode2/tree/master/1739-building-boxes) |
 | [1782-count-pairs-of-nodes](https://github.com/zeyongj/LeetCode2/tree/master/1782-count-pairs-of-nodes) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zeyongj/LeetCode2/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/zeyongj/LeetCode2/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/2398-maximum-number-of-robots-within-budget) |
@@ -720,6 +723,7 @@
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/zeyongj/LeetCode2/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -879,6 +883,7 @@
 | [1982-find-array-given-subset-sums](https://github.com/zeyongj/LeetCode2/tree/master/1982-find-array-given-subset-sums) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/zeyongj/LeetCode2/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2126-destroying-asteroids](https://github.com/zeyongj/LeetCode2/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/zeyongj/LeetCode2/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1187,6 +1192,7 @@
 | [1782-count-pairs-of-nodes](https://github.com/zeyongj/LeetCode2/tree/master/1782-count-pairs-of-nodes) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zeyongj/LeetCode2/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/zeyongj/LeetCode2/tree/master/1861-rotating-the-box) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1299,6 +1305,7 @@
 |  |
 | ------- |
 | [0715-range-module](https://github.com/zeyongj/LeetCode2/tree/master/0715-range-module) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/zeyongj/LeetCode2/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
 ## Linked List
@@ -1319,6 +1326,7 @@
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1388,4 +1396,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/zeyongj/LeetCode2/tree/master/0852-peak-index-in-a-mountain-array) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
