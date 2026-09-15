@@ -195,6 +195,7 @@
 | [0690-employee-importance](https://github.com/zeyongj/LeetCode2/tree/master/0690-employee-importance) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/zeyongj/LeetCode2/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0764-largest-plus-sign](https://github.com/zeyongj/LeetCode2/tree/master/0764-largest-plus-sign) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/zeyongj/LeetCode2/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0773-sliding-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/0773-sliding-puzzle) |
 | [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/zeyongj/LeetCode2/tree/master/0810-chalkboard-xor-game) |
@@ -532,6 +533,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/0045-jump-game-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/zeyongj/LeetCode2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/zeyongj/LeetCode2/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0860-lemonade-change](https://github.com/zeyongj/LeetCode2/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/zeyongj/LeetCode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/zeyongj/LeetCode2/tree/master/0942-di-string-match) |
@@ -867,6 +869,7 @@
 | [0414-third-maximum-number](https://github.com/zeyongj/LeetCode2/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/zeyongj/LeetCode2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0628-maximum-product-of-three-numbers) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/zeyongj/LeetCode2/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1288-remove-covered-intervals](https://github.com/zeyongj/LeetCode2/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/zeyongj/LeetCode2/tree/master/1340-jump-game-v) |
@@ -932,6 +935,7 @@
 | [0234-palindrome-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/0234-palindrome-linked-list) |
 | [0385-mini-parser](https://github.com/zeyongj/LeetCode2/tree/master/0385-mini-parser) |
 | [0591-tag-validator](https://github.com/zeyongj/LeetCode2/tree/master/0591-tag-validator) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/zeyongj/LeetCode2/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0844-backspace-string-compare](https://github.com/zeyongj/LeetCode2/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/zeyongj/LeetCode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/1019-next-greater-node-in-linked-list) |
@@ -1051,6 +1055,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/zeyongj/LeetCode2/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeyongj/LeetCode2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/zeyongj/LeetCode2/tree/master/1944-number-of-visible-people-in-a-queue) |
