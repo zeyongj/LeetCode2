@@ -66,6 +66,7 @@
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/zeyongj/LeetCode2/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/zeyongj/LeetCode2/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/zeyongj/LeetCode2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/zeyongj/LeetCode2/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2565-subsequence-with-the-minimum-score](https://github.com/zeyongj/LeetCode2/tree/master/2565-subsequence-with-the-minimum-score) |
 | [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
@@ -142,6 +143,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2420-find-all-good-indices](https://github.com/zeyongj/LeetCode2/tree/master/2420-find-all-good-indices) |
 | [2463-minimum-total-distance-traveled](https://github.com/zeyongj/LeetCode2/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/zeyongj/LeetCode2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/zeyongj/LeetCode2/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
 | [2681-power-of-heroes](https://github.com/zeyongj/LeetCode2/tree/master/2681-power-of-heroes) |
@@ -561,6 +563,7 @@
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/zeyongj/LeetCode2/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/zeyongj/LeetCode2/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/zeyongj/LeetCode2/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/zeyongj/LeetCode2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/zeyongj/LeetCode2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
 | [2607-make-k-subarray-sums-equal](https://github.com/zeyongj/LeetCode2/tree/master/2607-make-k-subarray-sums-equal) |
@@ -1205,6 +1208,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/zeyongj/LeetCode2/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/zeyongj/LeetCode2/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/zeyongj/LeetCode2/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/zeyongj/LeetCode2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/zeyongj/LeetCode2/tree/master/2540-minimum-common-value) |
 | [2565-subsequence-with-the-minimum-score](https://github.com/zeyongj/LeetCode2/tree/master/2565-subsequence-with-the-minimum-score) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/zeyongj/LeetCode2/tree/master/2903-find-indices-with-index-and-value-difference-i) |
