@@ -135,6 +135,7 @@
 | [1510-stone-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/zeyongj/LeetCode2/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/zeyongj/LeetCode2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/zeyongj/LeetCode2/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1824-minimum-sideway-jumps](https://github.com/zeyongj/LeetCode2/tree/master/1824-minimum-sideway-jumps) |
 | [1871-jump-game-vii](https://github.com/zeyongj/LeetCode2/tree/master/1871-jump-game-vii) |
@@ -663,6 +664,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/zeyongj/LeetCode2/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/zeyongj/LeetCode2/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/zeyongj/LeetCode2/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1739-building-boxes](https://github.com/zeyongj/LeetCode2/tree/master/1739-building-boxes) |
@@ -784,6 +786,7 @@
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/zeyongj/LeetCode2/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/zeyongj/LeetCode2/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/zeyongj/LeetCode2/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/zeyongj/LeetCode2/tree/master/1871-jump-game-vii) |
@@ -1363,6 +1366,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/zeyongj/LeetCode2/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zeyongj/LeetCode2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/zeyongj/LeetCode2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
