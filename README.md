@@ -218,6 +218,7 @@
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1019-next-greater-node-in-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
+| [1146-snapshot-array](https://github.com/zeyongj/LeetCode2/tree/master/1146-snapshot-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zeyongj/LeetCode2/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1260-shift-2d-grid](https://github.com/zeyongj/LeetCode2/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/zeyongj/LeetCode2/tree/master/1266-minimum-time-visiting-all-points) |
@@ -428,6 +429,7 @@
 | [0874-walking-robot-simulation](https://github.com/zeyongj/LeetCode2/tree/master/0874-walking-robot-simulation) |
 | [0966-vowel-spellchecker](https://github.com/zeyongj/LeetCode2/tree/master/0966-vowel-spellchecker) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1146-snapshot-array](https://github.com/zeyongj/LeetCode2/tree/master/1146-snapshot-array) |
 | [1189-maximum-number-of-balloons](https://github.com/zeyongj/LeetCode2/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1345-jump-game-iv) |
@@ -499,6 +501,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zeyongj/LeetCode2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zeyongj/LeetCode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/zeyongj/LeetCode2/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1146-snapshot-array](https://github.com/zeyongj/LeetCode2/tree/master/1146-snapshot-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
 | [1739-building-boxes](https://github.com/zeyongj/LeetCode2/tree/master/1739-building-boxes) |
 | [1782-count-pairs-of-nodes](https://github.com/zeyongj/LeetCode2/tree/master/1782-count-pairs-of-nodes) |
@@ -1148,6 +1151,7 @@
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/zeyongj/LeetCode2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0715-range-module](https://github.com/zeyongj/LeetCode2/tree/master/0715-range-module) |
+| [1146-snapshot-array](https://github.com/zeyongj/LeetCode2/tree/master/1146-snapshot-array) |
 | [1622-fancy-sequence](https://github.com/zeyongj/LeetCode2/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/zeyongj/LeetCode2/tree/master/2069-walking-robot-simulation-ii) |
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
@@ -1417,4 +1421,8 @@
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/zeyongj/LeetCode2/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
