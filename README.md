@@ -40,6 +40,7 @@
 | [1417-reformat-the-string](https://github.com/zeyongj/LeetCode2/tree/master/1417-reformat-the-string) |
 | [1446-consecutive-characters](https://github.com/zeyongj/LeetCode2/tree/master/1446-consecutive-characters) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/zeyongj/LeetCode2/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/zeyongj/LeetCode2/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/zeyongj/LeetCode2/tree/master/1529-minimum-suffix-flips) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -442,6 +443,7 @@
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/zeyongj/LeetCode2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/zeyongj/LeetCode2/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/zeyongj/LeetCode2/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1782-count-pairs-of-nodes](https://github.com/zeyongj/LeetCode2/tree/master/1782-count-pairs-of-nodes) |
 | [1980-find-unique-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1980-find-unique-binary-string) |
@@ -556,6 +558,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/zeyongj/LeetCode2/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/zeyongj/LeetCode2/tree/master/1386-cinema-seat-allocation) |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/zeyongj/LeetCode2/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/zeyongj/LeetCode2/tree/master/1529-minimum-suffix-flips) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/zeyongj/LeetCode2/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/zeyongj/LeetCode2/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -893,6 +896,7 @@
 | [1340-jump-game-v](https://github.com/zeyongj/LeetCode2/tree/master/1340-jump-game-v) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/zeyongj/LeetCode2/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/zeyongj/LeetCode2/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/zeyongj/LeetCode2/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/zeyongj/LeetCode2/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/zeyongj/LeetCode2/tree/master/1727-largest-submatrix-with-rearrangements) |
