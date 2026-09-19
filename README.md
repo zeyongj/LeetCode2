@@ -673,6 +673,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/zeyongj/LeetCode2/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/zeyongj/LeetCode2/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/zeyongj/LeetCode2/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1486-xor-operation-in-an-array) |
@@ -1326,6 +1327,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/zeyongj/LeetCode2/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/zeyongj/LeetCode2/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/zeyongj/LeetCode2/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/zeyongj/LeetCode2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Trie
