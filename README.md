@@ -179,6 +179,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zeyongj/LeetCode2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/zeyongj/LeetCode2/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3840-house-robber-v](https://github.com/zeyongj/LeetCode2/tree/master/3840-house-robber-v) |
+| [3869-count-fancy-numbers-in-a-range](https://github.com/zeyongj/LeetCode2/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Array
 |  |
 | ------- |
@@ -729,6 +730,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-smallest-all-ones-multiple](https://github.com/zeyongj/LeetCode2/tree/master/3790-smallest-all-ones-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3869-count-fancy-numbers-in-a-range](https://github.com/zeyongj/LeetCode2/tree/master/3869-count-fancy-numbers-in-a-range) |
 | [3870-count-commas-in-range](https://github.com/zeyongj/LeetCode2/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/zeyongj/LeetCode2/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/zeyongj/LeetCode2/tree/master/3875-construct-uniform-parity-array-i) |
