@@ -93,6 +93,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/zeyongj/LeetCode2/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/zeyongj/LeetCode2/tree/master/3485-longest-common-prefix-of-k-strings-after-removal) |
+| [3498-reverse-degree-of-a-string](https://github.com/zeyongj/LeetCode2/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/zeyongj/LeetCode2/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/zeyongj/LeetCode2/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/zeyongj/LeetCode2/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -788,6 +789,7 @@
 | [2974-minimum-number-game](https://github.com/zeyongj/LeetCode2/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/zeyongj/LeetCode2/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3498-reverse-degree-of-a-string](https://github.com/zeyongj/LeetCode2/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/zeyongj/LeetCode2/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/zeyongj/LeetCode2/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/zeyongj/LeetCode2/tree/master/3653-xor-after-range-multiplication-queries-i) |
