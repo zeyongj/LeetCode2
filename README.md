@@ -51,6 +51,7 @@
 | [1759-count-number-of-homogenous-substrings](https://github.com/zeyongj/LeetCode2/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/zeyongj/LeetCode2/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/zeyongj/LeetCode2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/zeyongj/LeetCode2/tree/master/1859-sorting-the-sentence) |
 | [1871-jump-game-vii](https://github.com/zeyongj/LeetCode2/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/zeyongj/LeetCode2/tree/master/1927-sum-game) |
@@ -263,6 +264,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/zeyongj/LeetCode2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1782-count-pairs-of-nodes](https://github.com/zeyongj/LeetCode2/tree/master/1782-count-pairs-of-nodes) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/zeyongj/LeetCode2/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/zeyongj/LeetCode2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1824-minimum-sideway-jumps](https://github.com/zeyongj/LeetCode2/tree/master/1824-minimum-sideway-jumps) |
 | [1833-maximum-ice-cream-bars](https://github.com/zeyongj/LeetCode2/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/zeyongj/LeetCode2/tree/master/1840-maximum-building-height) |
@@ -463,6 +465,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/zeyongj/LeetCode2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/zeyongj/LeetCode2/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1782-count-pairs-of-nodes](https://github.com/zeyongj/LeetCode2/tree/master/1782-count-pairs-of-nodes) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/zeyongj/LeetCode2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1980-find-unique-binary-string) |
 | [1982-find-array-given-subset-sums](https://github.com/zeyongj/LeetCode2/tree/master/1982-find-array-given-subset-sums) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/2183-count-array-pairs-divisible-by-k) |
