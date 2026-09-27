@@ -34,6 +34,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeyongj/LeetCode2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/zeyongj/LeetCode2/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/zeyongj/LeetCode2/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/zeyongj/LeetCode2/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/zeyongj/LeetCode2/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -999,6 +1000,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeyongj/LeetCode2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/zeyongj/LeetCode2/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode2/tree/master/1441-build-an-array-with-stack-operations) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/zeyongj/LeetCode2/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1521,4 +1523,8 @@
 |  |
 | ------- |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/zeyongj/LeetCode2/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
