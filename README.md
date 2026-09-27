@@ -139,6 +139,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zeyongj/LeetCode2/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/zeyongj/LeetCode2/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/zeyongj/LeetCode2/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/zeyongj/LeetCode2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/zeyongj/LeetCode2/tree/master/1563-stone-game-v) |
@@ -246,6 +247,7 @@
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/zeyongj/LeetCode2/tree/master/1441-build-an-array-with-stack-operations) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/zeyongj/LeetCode2/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/zeyongj/LeetCode2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
@@ -1511,4 +1513,12 @@
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/zeyongj/LeetCode2/tree/master/0686-repeated-string-match) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/zeyongj/LeetCode2/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
+## Complete Knapsack
+|  |
+| ------- |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/zeyongj/LeetCode2/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 <!---LeetCode Topics End-->
