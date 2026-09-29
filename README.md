@@ -156,6 +156,7 @@
 | [1872-stone-game-viii](https://github.com/zeyongj/LeetCode2/tree/master/1872-stone-game-viii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1987-number-of-unique-good-subsequences) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/zeyongj/LeetCode2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2420-find-all-good-indices](https://github.com/zeyongj/LeetCode2/tree/master/2420-find-all-good-indices) |
 | [2463-minimum-total-distance-traveled](https://github.com/zeyongj/LeetCode2/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/zeyongj/LeetCode2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -306,6 +307,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/zeyongj/LeetCode2/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/zeyongj/LeetCode2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2301-match-substring-after-replacement](https://github.com/zeyongj/LeetCode2/tree/master/2301-match-substring-after-replacement) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/zeyongj/LeetCode2/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -893,6 +895,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/zeyongj/LeetCode2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/zeyongj/LeetCode2/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/zeyongj/LeetCode2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/zeyongj/LeetCode2/tree/master/2643-row-with-maximum-ones) |
@@ -1538,4 +1541,5 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/zeyongj/LeetCode2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
