@@ -113,6 +113,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/zeyongj/LeetCode2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/zeyongj/LeetCode2/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/zeyongj/LeetCode2/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3799-word-squares-ii](https://github.com/zeyongj/LeetCode2/tree/master/3799-word-squares-ii) |
 | [3838-weighted-word-mapping](https://github.com/zeyongj/LeetCode2/tree/master/3838-weighted-word-mapping) |
 | [3853-merge-close-characters](https://github.com/zeyongj/LeetCode2/tree/master/3853-merge-close-characters) |
 ## Dynamic Programming
@@ -431,6 +432,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/zeyongj/LeetCode2/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3799-word-squares-ii](https://github.com/zeyongj/LeetCode2/tree/master/3799-word-squares-ii) |
 | [3814-maximum-capacity-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/3814-maximum-capacity-within-budget) |
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 | [3838-weighted-word-mapping](https://github.com/zeyongj/LeetCode2/tree/master/3838-weighted-word-mapping) |
@@ -987,6 +989,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/zeyongj/LeetCode2/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/zeyongj/LeetCode2/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3731-find-missing-elements](https://github.com/zeyongj/LeetCode2/tree/master/3731-find-missing-elements) |
+| [3799-word-squares-ii](https://github.com/zeyongj/LeetCode2/tree/master/3799-word-squares-ii) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3814-maximum-capacity-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/3814-maximum-capacity-within-budget) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1105,6 +1108,7 @@
 | [1980-find-unique-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/zeyongj/LeetCode2/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/zeyongj/LeetCode2/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3799-word-squares-ii](https://github.com/zeyongj/LeetCode2/tree/master/3799-word-squares-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1148,6 +1152,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/zeyongj/LeetCode2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/zeyongj/LeetCode2/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zeyongj/LeetCode2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3799-word-squares-ii](https://github.com/zeyongj/LeetCode2/tree/master/3799-word-squares-ii) |
 ## Union-Find
 |  |
 | ------- |
