@@ -736,6 +736,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zeyongj/LeetCode2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zeyongj/LeetCode2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/zeyongj/LeetCode2/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/zeyongj/LeetCode2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/zeyongj/LeetCode2/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode2/tree/master/3312-sorted-gcd-pair-queries) |
@@ -822,6 +823,7 @@
 | [2974-minimum-number-game](https://github.com/zeyongj/LeetCode2/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/zeyongj/LeetCode2/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/zeyongj/LeetCode2/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/zeyongj/LeetCode2/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/zeyongj/LeetCode2/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/zeyongj/LeetCode2/tree/master/3614-process-string-with-special-operations-ii) |
@@ -1331,6 +1333,7 @@
 | [1872-stone-game-viii](https://github.com/zeyongj/LeetCode2/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/zeyongj/LeetCode2/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/2029-stone-game-ix) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/zeyongj/LeetCode2/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## String Matching
 |  |
 | ------- |
