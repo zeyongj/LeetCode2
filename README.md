@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/zeyongj/LeetCode2/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/zeyongj/LeetCode2/tree/master/0273-integer-to-english-words) |
@@ -122,6 +123,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/0045-jump-game-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/zeyongj/LeetCode2/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/0115-distinct-subsequences) |
@@ -1109,6 +1111,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/zeyongj/LeetCode2/tree/master/0095-unique-binary-search-trees-ii) |
 | [0282-expression-add-operators](https://github.com/zeyongj/LeetCode2/tree/master/0282-expression-add-operators) |
 | [0357-count-numbers-with-unique-digits](https://github.com/zeyongj/LeetCode2/tree/master/0357-count-numbers-with-unique-digits) |
@@ -1549,6 +1552,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/zeyongj/LeetCode2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
