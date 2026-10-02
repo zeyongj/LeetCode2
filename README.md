@@ -243,6 +243,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
 | [1146-snapshot-array](https://github.com/zeyongj/LeetCode2/tree/master/1146-snapshot-array) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/zeyongj/LeetCode2/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zeyongj/LeetCode2/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1260-shift-2d-grid](https://github.com/zeyongj/LeetCode2/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/zeyongj/LeetCode2/tree/master/1266-minimum-time-visiting-all-points) |
@@ -890,6 +891,7 @@
 | [0794-valid-tic-tac-toe-state](https://github.com/zeyongj/LeetCode2/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/zeyongj/LeetCode2/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/zeyongj/LeetCode2/tree/master/0909-snakes-and-ladders) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/zeyongj/LeetCode2/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1260-shift-2d-grid](https://github.com/zeyongj/LeetCode2/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/zeyongj/LeetCode2/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1094,6 +1096,7 @@
 | [0909-snakes-and-ladders](https://github.com/zeyongj/LeetCode2/tree/master/0909-snakes-and-ladders) |
 | [1096-brace-expansion-ii](https://github.com/zeyongj/LeetCode2/tree/master/1096-brace-expansion-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/zeyongj/LeetCode2/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/zeyongj/LeetCode2/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1306-jump-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
