@@ -54,6 +54,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1754-largest-merge-of-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/1754-largest-merge-of-two-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/zeyongj/LeetCode2/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/zeyongj/LeetCode2/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/1771-maximize-palindrome-length-from-subsequences) |
@@ -606,6 +607,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/zeyongj/LeetCode2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1739-building-boxes](https://github.com/zeyongj/LeetCode2/tree/master/1739-building-boxes) |
+| [1754-largest-merge-of-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/1754-largest-merge-of-two-strings) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/zeyongj/LeetCode2/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1824-minimum-sideway-jumps](https://github.com/zeyongj/LeetCode2/tree/master/1824-minimum-sideway-jumps) |
 | [1833-maximum-ice-cream-bars](https://github.com/zeyongj/LeetCode2/tree/master/1833-maximum-ice-cream-bars) |
@@ -1298,6 +1300,7 @@
 | [0844-backspace-string-compare](https://github.com/zeyongj/LeetCode2/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/zeyongj/LeetCode2/tree/master/0942-di-string-match) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/zeyongj/LeetCode2/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1754-largest-merge-of-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/1754-largest-merge-of-two-strings) |
 | [1782-count-pairs-of-nodes](https://github.com/zeyongj/LeetCode2/tree/master/1782-count-pairs-of-nodes) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zeyongj/LeetCode2/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/zeyongj/LeetCode2/tree/master/1861-rotating-the-box) |
