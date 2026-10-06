@@ -1,11 +1,13 @@
 class Solution:
-    def minAddToMakeValid(self, S: str) -> int:
-        unmatched_open_brackets = unmatched_close_brackets = 0
-        for c in S:
+    def minAddToMakeValid(self, s: str) -> int:
+        open = 0
+        add = 0
+        for c in s:
             if c == '(':
-                unmatched_open_brackets += 1
-            elif unmatched_open_brackets > 0:
-                unmatched_open_brackets -= 1    
+                open += 1
             else:
-                unmatched_close_brackets += 1
-        return unmatched_open_brackets + unmatched_close_brackets
+                if open > 0:
+                    open -= 1
+                else:
+                    add += 1
+        return add + open
