@@ -707,6 +707,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/zeyongj/LeetCode2/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/zeyongj/LeetCode2/tree/master/0396-rotate-function) |
 | [0447-number-of-boomerangs](https://github.com/zeyongj/LeetCode2/tree/master/0447-number-of-boomerangs) |
+| [0478-generate-random-point-in-a-circle](https://github.com/zeyongj/LeetCode2/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/zeyongj/LeetCode2/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/zeyongj/LeetCode2/tree/master/0788-rotated-digits) |
@@ -1420,6 +1421,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/zeyongj/LeetCode2/tree/master/0478-generate-random-point-in-a-circle) |
 | [0836-rectangle-overlap](https://github.com/zeyongj/LeetCode2/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/zeyongj/LeetCode2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/zeyongj/LeetCode2/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -1584,4 +1586,12 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/zeyongj/LeetCode2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/zeyongj/LeetCode2/tree/master/0478-generate-random-point-in-a-circle) |
+## Randomized
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/zeyongj/LeetCode2/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
