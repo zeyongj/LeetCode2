@@ -12,6 +12,7 @@
 | [0227-basic-calculator-ii](https://github.com/zeyongj/LeetCode2/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/zeyongj/LeetCode2/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/zeyongj/LeetCode2/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/0301-remove-invalid-parentheses) |
 | [0385-mini-parser](https://github.com/zeyongj/LeetCode2/tree/master/0385-mini-parser) |
 | [0392-is-subsequence](https://github.com/zeyongj/LeetCode2/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/zeyongj/LeetCode2/tree/master/0433-minimum-genetic-mutation) |
@@ -1107,6 +1108,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/zeyongj/LeetCode2/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/zeyongj/LeetCode2/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/zeyongj/LeetCode2/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1140,6 +1142,7 @@
 | [0022-generate-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/zeyongj/LeetCode2/tree/master/0095-unique-binary-search-trees-ii) |
 | [0282-expression-add-operators](https://github.com/zeyongj/LeetCode2/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/zeyongj/LeetCode2/tree/master/0357-count-numbers-with-unique-digits) |
 | [0773-sliding-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/0773-sliding-puzzle) |
 | [1096-brace-expansion-ii](https://github.com/zeyongj/LeetCode2/tree/master/1096-brace-expansion-ii) |
