@@ -113,6 +113,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/zeyongj/LeetCode2/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/zeyongj/LeetCode2/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/zeyongj/LeetCode2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3519-count-numbers-with-non-decreasing-digits](https://github.com/zeyongj/LeetCode2/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/zeyongj/LeetCode2/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
 | [3612-process-string-with-special-operations-i](https://github.com/zeyongj/LeetCode2/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/zeyongj/LeetCode2/tree/master/3614-process-string-with-special-operations-ii) |
@@ -188,6 +189,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode2/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3441-minimum-cost-good-caption](https://github.com/zeyongj/LeetCode2/tree/master/3441-minimum-cost-good-caption) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/zeyongj/LeetCode2/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
+| [3519-count-numbers-with-non-decreasing-digits](https://github.com/zeyongj/LeetCode2/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3524-find-x-value-of-array-i](https://github.com/zeyongj/LeetCode2/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zeyongj/LeetCode2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3544-subtree-inversion-sum](https://github.com/zeyongj/LeetCode2/tree/master/3544-subtree-inversion-sum) |
@@ -767,6 +769,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/zeyongj/LeetCode2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zeyongj/LeetCode2/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/zeyongj/LeetCode2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3519-count-numbers-with-non-decreasing-digits](https://github.com/zeyongj/LeetCode2/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3524-find-x-value-of-array-i](https://github.com/zeyongj/LeetCode2/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/zeyongj/LeetCode2/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/zeyongj/LeetCode2/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
