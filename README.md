@@ -293,6 +293,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/zeyongj/LeetCode2/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/zeyongj/LeetCode2/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zeyongj/LeetCode2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1847-closest-room](https://github.com/zeyongj/LeetCode2/tree/master/1847-closest-room) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/zeyongj/LeetCode2/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zeyongj/LeetCode2/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/zeyongj/LeetCode2/tree/master/1861-rotating-the-box) |
@@ -563,6 +564,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/zeyongj/LeetCode2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1739-building-boxes](https://github.com/zeyongj/LeetCode2/tree/master/1739-building-boxes) |
 | [1782-count-pairs-of-nodes](https://github.com/zeyongj/LeetCode2/tree/master/1782-count-pairs-of-nodes) |
+| [1847-closest-room](https://github.com/zeyongj/LeetCode2/tree/master/1847-closest-room) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/zeyongj/LeetCode2/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -979,6 +981,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/zeyongj/LeetCode2/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/zeyongj/LeetCode2/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zeyongj/LeetCode2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1847-closest-room](https://github.com/zeyongj/LeetCode2/tree/master/1847-closest-room) |
 | [1859-sorting-the-sentence](https://github.com/zeyongj/LeetCode2/tree/master/1859-sorting-the-sentence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1982-find-array-given-subset-sums](https://github.com/zeyongj/LeetCode2/tree/master/1982-find-array-given-subset-sums) |
@@ -1444,6 +1447,7 @@
 |  |
 | ------- |
 | [0715-range-module](https://github.com/zeyongj/LeetCode2/tree/master/0715-range-module) |
+| [1847-closest-room](https://github.com/zeyongj/LeetCode2/tree/master/1847-closest-room) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/zeyongj/LeetCode2/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
