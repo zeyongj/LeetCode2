@@ -39,6 +39,7 @@
 | [0942-di-string-match](https://github.com/zeyongj/LeetCode2/tree/master/0942-di-string-match) |
 | [0966-vowel-spellchecker](https://github.com/zeyongj/LeetCode2/tree/master/0966-vowel-spellchecker) |
 | [0972-equal-rational-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0972-equal-rational-numbers) |
+| [1021-remove-outermost-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeyongj/LeetCode2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/zeyongj/LeetCode2/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/zeyongj/LeetCode2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1045,6 +1046,7 @@
 | [0856-score-of-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/zeyongj/LeetCode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/1019-next-greater-node-in-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeyongj/LeetCode2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/zeyongj/LeetCode2/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/zeyongj/LeetCode2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1593,6 +1595,7 @@
 | [0678-valid-parenthesis-string](https://github.com/zeyongj/LeetCode2/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/zeyongj/LeetCode2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/zeyongj/LeetCode2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
