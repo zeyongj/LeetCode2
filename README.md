@@ -158,6 +158,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/zeyongj/LeetCode2/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zeyongj/LeetCode2/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/zeyongj/LeetCode2/tree/master/1340-jump-game-v) |
+| [1387-sort-integers-by-the-power-value](https://github.com/zeyongj/LeetCode2/tree/master/1387-sort-integers-by-the-power-value) |
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/zeyongj/LeetCode2/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/zeyongj/LeetCode2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -971,6 +972,7 @@
 | [1288-remove-covered-intervals](https://github.com/zeyongj/LeetCode2/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/zeyongj/LeetCode2/tree/master/1340-jump-game-v) |
+| [1387-sort-integers-by-the-power-value](https://github.com/zeyongj/LeetCode2/tree/master/1387-sort-integers-by-the-power-value) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/zeyongj/LeetCode2/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/zeyongj/LeetCode2/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1308,6 +1310,7 @@
 | ------- |
 | [0773-sliding-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/0773-sliding-puzzle) |
 | [0913-cat-and-mouse](https://github.com/zeyongj/LeetCode2/tree/master/0913-cat-and-mouse) |
+| [1387-sort-integers-by-the-power-value](https://github.com/zeyongj/LeetCode2/tree/master/1387-sort-integers-by-the-power-value) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/zeyongj/LeetCode2/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Two Pointers
 |  |
