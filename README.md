@@ -331,6 +331,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2301-match-substring-after-replacement](https://github.com/zeyongj/LeetCode2/tree/master/2301-match-substring-after-replacement) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/zeyongj/LeetCode2/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/zeyongj/LeetCode2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/zeyongj/LeetCode2/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/zeyongj/LeetCode2/tree/master/2350-shortest-impossible-sequence-of-rolls) |
@@ -573,6 +574,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/zeyongj/LeetCode2/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/zeyongj/LeetCode2/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/zeyongj/LeetCode2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2454-next-greater-element-iv](https://github.com/zeyongj/LeetCode2/tree/master/2454-next-greater-element-iv) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zeyongj/LeetCode2/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -635,6 +637,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/zeyongj/LeetCode2/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zeyongj/LeetCode2/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/zeyongj/LeetCode2/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/zeyongj/LeetCode2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/zeyongj/LeetCode2/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/zeyongj/LeetCode2/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/zeyongj/LeetCode2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -668,6 +671,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/zeyongj/LeetCode2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/zeyongj/LeetCode2/tree/master/2336-smallest-number-in-infinite-set) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/zeyongj/LeetCode2/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -1002,6 +1006,7 @@
 | [2191-sort-the-jumbled-numbers](https://github.com/zeyongj/LeetCode2/tree/master/2191-sort-the-jumbled-numbers) |
 | [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/zeyongj/LeetCode2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/zeyongj/LeetCode2/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/zeyongj/LeetCode2/tree/master/2410-maximum-matching-of-players-with-trainers) |
