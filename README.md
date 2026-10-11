@@ -365,6 +365,7 @@
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/zeyongj/LeetCode2/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/zeyongj/LeetCode2/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/zeyongj/LeetCode2/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/zeyongj/LeetCode2/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/zeyongj/LeetCode2/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
@@ -1202,6 +1203,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/zeyongj/LeetCode2/tree/master/1291-sequential-digits) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/zeyongj/LeetCode2/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/zeyongj/LeetCode2/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/zeyongj/LeetCode2/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2951-find-the-peaks](https://github.com/zeyongj/LeetCode2/tree/master/2951-find-the-peaks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zeyongj/LeetCode2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
