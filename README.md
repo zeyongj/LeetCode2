@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/zeyongj/LeetCode2/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/zeyongj/LeetCode2/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/zeyongj/LeetCode2/tree/master/0227-basic-calculator-ii) |
@@ -718,6 +719,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/zeyongj/LeetCode2/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/zeyongj/LeetCode2/tree/master/0048-rotate-image) |
 | [0227-basic-calculator-ii](https://github.com/zeyongj/LeetCode2/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/zeyongj/LeetCode2/tree/master/0273-integer-to-english-words) |
@@ -844,6 +846,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/zeyongj/LeetCode2/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/zeyongj/LeetCode2/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/zeyongj/LeetCode2/tree/master/0844-backspace-string-compare) |
 | [0874-walking-robot-simulation](https://github.com/zeyongj/LeetCode2/tree/master/0874-walking-robot-simulation) |
