@@ -373,6 +373,7 @@
 | [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/zeyongj/LeetCode2/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/zeyongj/LeetCode2/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/zeyongj/LeetCode2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/zeyongj/LeetCode2/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2906-construct-product-matrix](https://github.com/zeyongj/LeetCode2/tree/master/2906-construct-product-matrix) |
 | [2931-maximum-spending-after-buying-items](https://github.com/zeyongj/LeetCode2/tree/master/2931-maximum-spending-after-buying-items) |
@@ -523,6 +524,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/zeyongj/LeetCode2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/zeyongj/LeetCode2/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/zeyongj/LeetCode2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/zeyongj/LeetCode2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zeyongj/LeetCode2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeyongj/LeetCode2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -652,6 +654,7 @@
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/zeyongj/LeetCode2/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/zeyongj/LeetCode2/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/zeyongj/LeetCode2/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/zeyongj/LeetCode2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2931-maximum-spending-after-buying-items](https://github.com/zeyongj/LeetCode2/tree/master/2931-maximum-spending-after-buying-items) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zeyongj/LeetCode2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeyongj/LeetCode2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -831,6 +834,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/zeyongj/LeetCode2/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/zeyongj/LeetCode2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/zeyongj/LeetCode2/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zeyongj/LeetCode2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/zeyongj/LeetCode2/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
