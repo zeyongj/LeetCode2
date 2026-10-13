@@ -455,6 +455,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/zeyongj/LeetCode2/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/zeyongj/LeetCode2/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/zeyongj/LeetCode2/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/zeyongj/LeetCode2/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/zeyongj/LeetCode2/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeyongj/LeetCode2/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -673,6 +674,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/zeyongj/LeetCode2/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/zeyongj/LeetCode2/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/zeyongj/LeetCode2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/zeyongj/LeetCode2/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1052,6 +1054,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/zeyongj/LeetCode2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/zeyongj/LeetCode2/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/zeyongj/LeetCode2/tree/master/3685-subsequence-sum-after-capping-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/zeyongj/LeetCode2/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/zeyongj/LeetCode2/tree/master/3731-find-missing-elements) |
 | [3799-word-squares-ii](https://github.com/zeyongj/LeetCode2/tree/master/3799-word-squares-ii) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
