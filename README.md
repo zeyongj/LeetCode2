@@ -675,6 +675,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/zeyongj/LeetCode2/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/zeyongj/LeetCode2/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/zeyongj/LeetCode2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/zeyongj/LeetCode2/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/zeyongj/LeetCode2/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
@@ -809,6 +810,7 @@
 | [3671-sum-of-beautiful-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3671-sum-of-beautiful-subsequences) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/zeyongj/LeetCode2/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/zeyongj/LeetCode2/tree/master/3715-sum-of-perfect-square-ancestors) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/zeyongj/LeetCode2/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/zeyongj/LeetCode2/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/zeyongj/LeetCode2/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zeyongj/LeetCode2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
