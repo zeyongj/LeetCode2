@@ -609,6 +609,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/zeyongj/LeetCode2/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/zeyongj/LeetCode2/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3814-maximum-capacity-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/3814-maximum-capacity-within-budget) |
+| [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/zeyongj/LeetCode2/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Greedy
 |  |
 | ------- |
@@ -1172,6 +1173,7 @@
 | [3310-remove-methods-from-project](https://github.com/zeyongj/LeetCode2/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/zeyongj/LeetCode2/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/zeyongj/LeetCode2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/zeyongj/LeetCode2/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Backtracking
 |  |
 | ------- |
@@ -1274,6 +1276,7 @@
 | [3608-minimum-time-for-k-connected-components](https://github.com/zeyongj/LeetCode2/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3620-network-recovery-pathways](https://github.com/zeyongj/LeetCode2/tree/master/3620-network-recovery-pathways) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
+| [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/zeyongj/LeetCode2/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
