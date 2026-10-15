@@ -778,6 +778,7 @@
 | [2183-count-array-pairs-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2235-add-two-integers](https://github.com/zeyongj/LeetCode2/tree/master/2235-add-two-integers) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/zeyongj/LeetCode2/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2523-closest-prime-numbers-in-range](https://github.com/zeyongj/LeetCode2/tree/master/2523-closest-prime-numbers-in-range) |
 | [2607-make-k-subarray-sums-equal](https://github.com/zeyongj/LeetCode2/tree/master/2607-make-k-subarray-sums-equal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/zeyongj/LeetCode2/tree/master/2651-calculate-delayed-arrival-time) |
 | [2681-power-of-heroes](https://github.com/zeyongj/LeetCode2/tree/master/2681-power-of-heroes) |
@@ -1324,6 +1325,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zeyongj/LeetCode2/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/zeyongj/LeetCode2/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2523-closest-prime-numbers-in-range](https://github.com/zeyongj/LeetCode2/tree/master/2523-closest-prime-numbers-in-range) |
 | [2607-make-k-subarray-sums-equal](https://github.com/zeyongj/LeetCode2/tree/master/2607-make-k-subarray-sums-equal) |
 | [2709-greatest-common-divisor-traversal](https://github.com/zeyongj/LeetCode2/tree/master/2709-greatest-common-divisor-traversal) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zeyongj/LeetCode2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1649,4 +1651,16 @@
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/zeyongj/LeetCode2/tree/master/0478-generate-random-point-in-a-circle) |
+## Primality Test
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/zeyongj/LeetCode2/tree/master/2523-closest-prime-numbers-in-range) |
+## Sieve Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/zeyongj/LeetCode2/tree/master/2523-closest-prime-numbers-in-range) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/zeyongj/LeetCode2/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
