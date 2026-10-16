@@ -1,7 +1,18 @@
 class Solution:
-    def smallestTrimmedNumbers(self, nums: List[str], queries: List[List[int]]) -> List[int]:
-        ans, trimmed = [], {}
+    def smallestTrimmedNumbers(
+        self, nums: List[str], queries: List[List[int]]
+    ) -> List[int]:
+        result = []
+
         for k, trim in queries:
-            trimmed.setdefault(trim, sorted([(num[-trim :], i) for i, num in enumerate(nums)]))
-            ans.append(trimmed[trim][k - 1][1])
-        return ans
+            new_nums = [num[-trim:] for num in nums]
+
+            # Sort indices based on their trimmed values
+            get_index = sorted(
+                range(len(new_nums)),
+                key=lambda x: new_nums[x]
+            )
+
+            result.append(get_index[k - 1])
+
+        return result
