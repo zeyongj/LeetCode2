@@ -187,6 +187,7 @@
 | [2681-power-of-heroes](https://github.com/zeyongj/LeetCode2/tree/master/2681-power-of-heroes) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/zeyongj/LeetCode2/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/zeyongj/LeetCode2/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/zeyongj/LeetCode2/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/zeyongj/LeetCode2/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/zeyongj/LeetCode2/tree/master/3225-maximum-score-from-grid-operations) |
@@ -375,6 +376,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/zeyongj/LeetCode2/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/zeyongj/LeetCode2/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/zeyongj/LeetCode2/tree/master/2784-check-if-array-is-good) |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/zeyongj/LeetCode2/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/zeyongj/LeetCode2/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/zeyongj/LeetCode2/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -667,6 +669,7 @@
 | [2607-make-k-subarray-sums-equal](https://github.com/zeyongj/LeetCode2/tree/master/2607-make-k-subarray-sums-equal) |
 | [2611-mice-and-cheese](https://github.com/zeyongj/LeetCode2/tree/master/2611-mice-and-cheese) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/zeyongj/LeetCode2/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/zeyongj/LeetCode2/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/zeyongj/LeetCode2/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/zeyongj/LeetCode2/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/zeyongj/LeetCode2/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
