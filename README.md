@@ -483,6 +483,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/zeyongj/LeetCode2/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/zeyongj/LeetCode2/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/zeyongj/LeetCode2/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/zeyongj/LeetCode2/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/zeyongj/LeetCode2/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/zeyongj/LeetCode2/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -844,6 +845,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/zeyongj/LeetCode2/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/zeyongj/LeetCode2/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/zeyongj/LeetCode2/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/zeyongj/LeetCode2/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1084,6 +1086,7 @@
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3814-maximum-capacity-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/3814-maximum-capacity-within-budget) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/zeyongj/LeetCode2/tree/master/3886-sum-of-sortable-integers) |
 ## Stack
 |  |
 | ------- |
@@ -1260,6 +1263,7 @@
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/zeyongj/LeetCode2/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/zeyongj/LeetCode2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-word-squares-ii](https://github.com/zeyongj/LeetCode2/tree/master/3799-word-squares-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/zeyongj/LeetCode2/tree/master/3886-sum-of-sortable-integers) |
 ## Union-Find
 |  |
 | ------- |
