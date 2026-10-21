@@ -132,6 +132,7 @@
 | [3799-word-squares-ii](https://github.com/zeyongj/LeetCode2/tree/master/3799-word-squares-ii) |
 | [3838-weighted-word-mapping](https://github.com/zeyongj/LeetCode2/tree/master/3838-weighted-word-mapping) |
 | [3853-merge-close-characters](https://github.com/zeyongj/LeetCode2/tree/master/3853-merge-close-characters) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/zeyongj/LeetCode2/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
