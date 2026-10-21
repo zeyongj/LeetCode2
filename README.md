@@ -184,6 +184,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/zeyongj/LeetCode2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/zeyongj/LeetCode2/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/zeyongj/LeetCode2/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2681-power-of-heroes](https://github.com/zeyongj/LeetCode2/tree/master/2681-power-of-heroes) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/zeyongj/LeetCode2/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/zeyongj/LeetCode2/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -370,6 +371,7 @@
 | [2643-row-with-maximum-ones](https://github.com/zeyongj/LeetCode2/tree/master/2643-row-with-maximum-ones) |
 | [2653-sliding-subarray-beauty](https://github.com/zeyongj/LeetCode2/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/zeyongj/LeetCode2/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2681-power-of-heroes](https://github.com/zeyongj/LeetCode2/tree/master/2681-power-of-heroes) |
 | [2709-greatest-common-divisor-traversal](https://github.com/zeyongj/LeetCode2/tree/master/2709-greatest-common-divisor-traversal) |
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
@@ -671,6 +673,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
 | [2607-make-k-subarray-sums-equal](https://github.com/zeyongj/LeetCode2/tree/master/2607-make-k-subarray-sums-equal) |
 | [2611-mice-and-cheese](https://github.com/zeyongj/LeetCode2/tree/master/2611-mice-and-cheese) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/zeyongj/LeetCode2/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/zeyongj/LeetCode2/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/zeyongj/LeetCode2/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/zeyongj/LeetCode2/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
@@ -1132,6 +1135,7 @@
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/zeyongj/LeetCode2/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/zeyongj/LeetCode2/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/zeyongj/LeetCode2/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3544-subtree-inversion-sum](https://github.com/zeyongj/LeetCode2/tree/master/3544-subtree-inversion-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/zeyongj/LeetCode2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/zeyongj/LeetCode2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1324,6 +1328,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/zeyongj/LeetCode2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/zeyongj/LeetCode2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/zeyongj/LeetCode2/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/zeyongj/LeetCode2/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Design
 |  |
 | ------- |
