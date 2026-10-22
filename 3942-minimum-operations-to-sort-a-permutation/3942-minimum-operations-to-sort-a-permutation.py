@@ -1,19 +1,9 @@
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
-        n = len(nums)
-        asc, dsc = 1, 1
-
-        for i in range(1, n):
-            asc += nums[i] == (nums[i - 1] + 1) % n
-            dsc += nums[i - 1] == (nums[i] + 1) % n
-
-        if asc == n and not nums[0]:
-            return 0
-
-        if asc == n:
-            return min(n - nums[0], nums[0] + 2)
-
-        if dsc == n:
-            return min(n - nums[-1], nums[-1]) + 1
-
+        n, shift = len(nums), nums.index(0)
+        ring = lambda k: nums[(shift + k) % n]  # the circle, read from 0
+        if all(ring(k) == k for k in range(n)):  # counts up along the arrow
+            return min(shift, n - shift + 2)  # walk ahead, or turn, walk back, turn back
+        if all(ring(k) == -k % n for k in range(n)):  # counts up against the arrow
+            return min(shift + 2, n - shift)  # walk ahead and turn, or turn and walk back
         return -1
