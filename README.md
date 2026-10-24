@@ -86,6 +86,7 @@
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/zeyongj/LeetCode2/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2301-match-substring-after-replacement](https://github.com/zeyongj/LeetCode2/tree/master/2301-match-substring-after-replacement) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2409-count-days-spent-together](https://github.com/zeyongj/LeetCode2/tree/master/2409-count-days-spent-together) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/zeyongj/LeetCode2/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/zeyongj/LeetCode2/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/zeyongj/LeetCode2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -801,6 +802,7 @@
 | [2183-count-array-pairs-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2235-add-two-integers](https://github.com/zeyongj/LeetCode2/tree/master/2235-add-two-integers) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/zeyongj/LeetCode2/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2409-count-days-spent-together](https://github.com/zeyongj/LeetCode2/tree/master/2409-count-days-spent-together) |
 | [2523-closest-prime-numbers-in-range](https://github.com/zeyongj/LeetCode2/tree/master/2523-closest-prime-numbers-in-range) |
 | [2607-make-k-subarray-sums-equal](https://github.com/zeyongj/LeetCode2/tree/master/2607-make-k-subarray-sums-equal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/zeyongj/LeetCode2/tree/master/2651-calculate-delayed-arrival-time) |
