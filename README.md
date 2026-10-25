@@ -257,6 +257,7 @@
 | [0860-lemonade-change](https://github.com/zeyongj/LeetCode2/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/zeyongj/LeetCode2/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/zeyongj/LeetCode2/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/zeyongj/LeetCode2/tree/master/0904-fruit-into-baskets) |
 | [0909-snakes-and-ladders](https://github.com/zeyongj/LeetCode2/tree/master/0909-snakes-and-ladders) |
 | [0927-three-equal-parts](https://github.com/zeyongj/LeetCode2/tree/master/0927-three-equal-parts) |
 | [0942-di-string-match](https://github.com/zeyongj/LeetCode2/tree/master/0942-di-string-match) |
@@ -506,6 +507,7 @@
 | [0819-most-common-word](https://github.com/zeyongj/LeetCode2/tree/master/0819-most-common-word) |
 | [0854-k-similar-strings](https://github.com/zeyongj/LeetCode2/tree/master/0854-k-similar-strings) |
 | [0874-walking-robot-simulation](https://github.com/zeyongj/LeetCode2/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/zeyongj/LeetCode2/tree/master/0904-fruit-into-baskets) |
 | [0966-vowel-spellchecker](https://github.com/zeyongj/LeetCode2/tree/master/0966-vowel-spellchecker) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/zeyongj/LeetCode2/tree/master/1096-brace-expansion-ii) |
@@ -1489,6 +1491,7 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeyongj/LeetCode2/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/zeyongj/LeetCode2/tree/master/0904-fruit-into-baskets) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zeyongj/LeetCode2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/zeyongj/LeetCode2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
