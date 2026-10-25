@@ -270,6 +270,7 @@
 | [1146-snapshot-array](https://github.com/zeyongj/LeetCode2/tree/master/1146-snapshot-array) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/zeyongj/LeetCode2/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/zeyongj/LeetCode2/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1254-number-of-closed-islands](https://github.com/zeyongj/LeetCode2/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/zeyongj/LeetCode2/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/zeyongj/LeetCode2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/zeyongj/LeetCode2/tree/master/1288-remove-covered-intervals) |
@@ -976,6 +977,7 @@
 | [0835-image-overlap](https://github.com/zeyongj/LeetCode2/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/zeyongj/LeetCode2/tree/master/0909-snakes-and-ladders) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/zeyongj/LeetCode2/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
+| [1254-number-of-closed-islands](https://github.com/zeyongj/LeetCode2/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/zeyongj/LeetCode2/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/zeyongj/LeetCode2/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1166,6 +1168,7 @@
 | [1145-binary-tree-coloring-game](https://github.com/zeyongj/LeetCode2/tree/master/1145-binary-tree-coloring-game) |
 | [1192-critical-connections-in-a-network](https://github.com/zeyongj/LeetCode2/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/zeyongj/LeetCode2/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1254-number-of-closed-islands](https://github.com/zeyongj/LeetCode2/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/zeyongj/LeetCode2/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1199,6 +1202,7 @@
 | [1096-brace-expansion-ii](https://github.com/zeyongj/LeetCode2/tree/master/1096-brace-expansion-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/zeyongj/LeetCode2/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/zeyongj/LeetCode2/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
+| [1254-number-of-closed-islands](https://github.com/zeyongj/LeetCode2/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1280,6 +1284,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/zeyongj/LeetCode2/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/zeyongj/LeetCode2/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/zeyongj/LeetCode2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
