@@ -404,6 +404,7 @@
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/zeyongj/LeetCode2/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zeyongj/LeetCode2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/zeyongj/LeetCode2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/zeyongj/LeetCode2/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/zeyongj/LeetCode2/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -911,6 +912,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
 | [2974-minimum-number-game](https://github.com/zeyongj/LeetCode2/tree/master/2974-minimum-number-game) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/zeyongj/LeetCode2/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/zeyongj/LeetCode2/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/zeyongj/LeetCode2/tree/master/3222-find-the-winning-player-in-coin-game) |
