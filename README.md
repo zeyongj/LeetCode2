@@ -209,6 +209,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/zeyongj/LeetCode2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode2/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3579-minimum-steps-to-convert-string-with-operations](https://github.com/zeyongj/LeetCode2/tree/master/3579-minimum-steps-to-convert-string-with-operations) |
+| [3599-partition-array-to-minimize-xor](https://github.com/zeyongj/LeetCode2/tree/master/3599-partition-array-to-minimize-xor) |
 | [3620-network-recovery-pathways](https://github.com/zeyongj/LeetCode2/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/zeyongj/LeetCode2/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/zeyongj/LeetCode2/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -454,6 +455,7 @@
 | [3576-transform-array-to-all-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode2/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
+| [3599-partition-array-to-minimize-xor](https://github.com/zeyongj/LeetCode2/tree/master/3599-partition-array-to-minimize-xor) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/zeyongj/LeetCode2/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/zeyongj/LeetCode2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -887,6 +889,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zeyongj/LeetCode2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/zeyongj/LeetCode2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/zeyongj/LeetCode2/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3599-partition-array-to-minimize-xor](https://github.com/zeyongj/LeetCode2/tree/master/3599-partition-array-to-minimize-xor) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/zeyongj/LeetCode2/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/zeyongj/LeetCode2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -960,6 +963,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/zeyongj/LeetCode2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/zeyongj/LeetCode2/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/zeyongj/LeetCode2/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3599-partition-array-to-minimize-xor](https://github.com/zeyongj/LeetCode2/tree/master/3599-partition-array-to-minimize-xor) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3707-equal-score-substrings](https://github.com/zeyongj/LeetCode2/tree/master/3707-equal-score-substrings) |
 | [3714-longest-balanced-substring-ii](https://github.com/zeyongj/LeetCode2/tree/master/3714-longest-balanced-substring-ii) |
