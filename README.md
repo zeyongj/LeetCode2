@@ -86,6 +86,7 @@
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/zeyongj/LeetCode2/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2301-match-substring-after-replacement](https://github.com/zeyongj/LeetCode2/tree/master/2301-match-substring-after-replacement) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2405-optimal-partition-of-string](https://github.com/zeyongj/LeetCode2/tree/master/2405-optimal-partition-of-string) |
 | [2409-count-days-spent-together](https://github.com/zeyongj/LeetCode2/tree/master/2409-count-days-spent-together) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/zeyongj/LeetCode2/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/zeyongj/LeetCode2/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -542,6 +543,7 @@
 | [2301-match-substring-after-replacement](https://github.com/zeyongj/LeetCode2/tree/master/2301-match-substring-after-replacement) |
 | [2336-smallest-number-in-infinite-set](https://github.com/zeyongj/LeetCode2/tree/master/2336-smallest-number-in-infinite-set) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/zeyongj/LeetCode2/tree/master/2350-shortest-impossible-sequence-of-rolls) |
+| [2405-optimal-partition-of-string](https://github.com/zeyongj/LeetCode2/tree/master/2405-optimal-partition-of-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/zeyongj/LeetCode2/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2540-minimum-common-value](https://github.com/zeyongj/LeetCode2/tree/master/2540-minimum-common-value) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/zeyongj/LeetCode2/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -679,6 +681,7 @@
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/zeyongj/LeetCode2/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/zeyongj/LeetCode2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/zeyongj/LeetCode2/tree/master/2350-shortest-impossible-sequence-of-rolls) |
+| [2405-optimal-partition-of-string](https://github.com/zeyongj/LeetCode2/tree/master/2405-optimal-partition-of-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/zeyongj/LeetCode2/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/zeyongj/LeetCode2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/zeyongj/LeetCode2/tree/master/2567-minimum-score-by-changing-two-elements) |
