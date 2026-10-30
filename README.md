@@ -136,6 +136,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3853-merge-close-characters](https://github.com/zeyongj/LeetCode2/tree/master/3853-merge-close-characters) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/zeyongj/LeetCode2/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/zeyongj/LeetCode2/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -739,6 +740,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/zeyongj/LeetCode2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3620-network-recovery-pathways](https://github.com/zeyongj/LeetCode2/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/zeyongj/LeetCode2/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/zeyongj/LeetCode2/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting
 |  |
 | ------- |
@@ -1350,6 +1352,7 @@
 | [3620-network-recovery-pathways](https://github.com/zeyongj/LeetCode2/tree/master/3620-network-recovery-pathways) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/zeyongj/LeetCode2/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/zeyongj/LeetCode2/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1615,6 +1618,7 @@
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/zeyongj/LeetCode2/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/zeyongj/LeetCode2/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Combinatorics
 |  |
 | ------- |
