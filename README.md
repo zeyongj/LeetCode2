@@ -133,6 +133,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/zeyongj/LeetCode2/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3799-word-squares-ii](https://github.com/zeyongj/LeetCode2/tree/master/3799-word-squares-ii) |
 | [3838-weighted-word-mapping](https://github.com/zeyongj/LeetCode2/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3853-merge-close-characters](https://github.com/zeyongj/LeetCode2/tree/master/3853-merge-close-characters) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/zeyongj/LeetCode2/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
@@ -493,6 +494,7 @@
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 | [3838-weighted-word-mapping](https://github.com/zeyongj/LeetCode2/tree/master/3838-weighted-word-mapping) |
 | [3840-house-robber-v](https://github.com/zeyongj/LeetCode2/tree/master/3840-house-robber-v) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/zeyongj/LeetCode2/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/zeyongj/LeetCode2/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -898,6 +900,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/zeyongj/LeetCode2/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/zeyongj/LeetCode2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
@@ -1168,6 +1171,7 @@
 | [3590-kth-smallest-path-xor-sum](https://github.com/zeyongj/LeetCode2/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/zeyongj/LeetCode2/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1201,6 +1205,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/zeyongj/LeetCode2/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3812-minimum-edge-toggles-on-a-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1260,6 +1265,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/zeyongj/LeetCode2/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeyongj/LeetCode2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/zeyongj/LeetCode2/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Radix Sort
 |  |
 | ------- |
@@ -1386,6 +1392,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/zeyongj/LeetCode2/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeyongj/LeetCode2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/zeyongj/LeetCode2/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -1412,6 +1419,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/zeyongj/LeetCode2/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/zeyongj/LeetCode2/tree/master/3161-block-placement-queries) |
 | [3671-sum-of-beautiful-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3671-sum-of-beautiful-subsequences) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Memoization
 |  |
 | ------- |
