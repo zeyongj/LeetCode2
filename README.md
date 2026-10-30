@@ -397,6 +397,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/zeyongj/LeetCode2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/zeyongj/LeetCode2/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2906-construct-product-matrix](https://github.com/zeyongj/LeetCode2/tree/master/2906-construct-product-matrix) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/zeyongj/LeetCode2/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/zeyongj/LeetCode2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/zeyongj/LeetCode2/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2931-maximum-spending-after-buying-items](https://github.com/zeyongj/LeetCode2/tree/master/2931-maximum-spending-after-buying-items) |
