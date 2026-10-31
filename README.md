@@ -372,6 +372,7 @@
 | [2540-minimum-common-value](https://github.com/zeyongj/LeetCode2/tree/master/2540-minimum-common-value) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/zeyongj/LeetCode2/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/2553-separate-the-digits-in-an-array) |
+| [2561-rearranging-fruits](https://github.com/zeyongj/LeetCode2/tree/master/2561-rearranging-fruits) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/zeyongj/LeetCode2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2569-handling-sum-queries-after-update](https://github.com/zeyongj/LeetCode2/tree/master/2569-handling-sum-queries-after-update) |
 | [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
@@ -557,6 +558,7 @@
 | [2423-remove-letter-to-equalize-frequency](https://github.com/zeyongj/LeetCode2/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2540-minimum-common-value](https://github.com/zeyongj/LeetCode2/tree/master/2540-minimum-common-value) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/zeyongj/LeetCode2/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2561-rearranging-fruits](https://github.com/zeyongj/LeetCode2/tree/master/2561-rearranging-fruits) |
 | [2615-sum-of-distances](https://github.com/zeyongj/LeetCode2/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/zeyongj/LeetCode2/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -696,6 +698,7 @@
 | [2405-optimal-partition-of-string](https://github.com/zeyongj/LeetCode2/tree/master/2405-optimal-partition-of-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/zeyongj/LeetCode2/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/zeyongj/LeetCode2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2561-rearranging-fruits](https://github.com/zeyongj/LeetCode2/tree/master/2561-rearranging-fruits) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/zeyongj/LeetCode2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
 | [2607-make-k-subarray-sums-equal](https://github.com/zeyongj/LeetCode2/tree/master/2607-make-k-subarray-sums-equal) |
@@ -1096,6 +1099,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/zeyongj/LeetCode2/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2454-next-greater-element-iv](https://github.com/zeyongj/LeetCode2/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/zeyongj/LeetCode2/tree/master/2463-minimum-total-distance-traveled) |
+| [2561-rearranging-fruits](https://github.com/zeyongj/LeetCode2/tree/master/2561-rearranging-fruits) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/zeyongj/LeetCode2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/zeyongj/LeetCode2/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/zeyongj/LeetCode2/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
