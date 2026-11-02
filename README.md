@@ -823,6 +823,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1739-building-boxes](https://github.com/zeyongj/LeetCode2/tree/master/1739-building-boxes) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/zeyongj/LeetCode2/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/zeyongj/LeetCode2/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1840-maximum-building-height](https://github.com/zeyongj/LeetCode2/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/zeyongj/LeetCode2/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
