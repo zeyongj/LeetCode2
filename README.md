@@ -506,6 +506,7 @@
 | [3838-weighted-word-mapping](https://github.com/zeyongj/LeetCode2/tree/master/3838-weighted-word-mapping) |
 | [3840-house-robber-v](https://github.com/zeyongj/LeetCode2/tree/master/3840-house-robber-v) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/zeyongj/LeetCode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/zeyongj/LeetCode2/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/zeyongj/LeetCode2/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/zeyongj/LeetCode2/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -731,6 +732,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/zeyongj/LeetCode2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/zeyongj/LeetCode2/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/zeyongj/LeetCode2/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/zeyongj/LeetCode2/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
