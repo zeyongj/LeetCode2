@@ -82,6 +82,7 @@
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/zeyongj/LeetCode2/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/zeyongj/LeetCode2/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/zeyongj/LeetCode2/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/zeyongj/LeetCode2/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/zeyongj/LeetCode2/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -355,6 +356,7 @@
 | [2191-sort-the-jumbled-numbers](https://github.com/zeyongj/LeetCode2/tree/master/2191-sort-the-jumbled-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/zeyongj/LeetCode2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/zeyongj/LeetCode2/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/zeyongj/LeetCode2/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/zeyongj/LeetCode2/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/zeyongj/LeetCode2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -556,6 +558,7 @@
 | [2183-count-array-pairs-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/zeyongj/LeetCode2/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/zeyongj/LeetCode2/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/zeyongj/LeetCode2/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/zeyongj/LeetCode2/tree/master/2248-intersection-of-multiple-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeyongj/LeetCode2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/zeyongj/LeetCode2/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -1410,6 +1413,7 @@
 | [1146-snapshot-array](https://github.com/zeyongj/LeetCode2/tree/master/1146-snapshot-array) |
 | [1622-fancy-sequence](https://github.com/zeyongj/LeetCode2/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/zeyongj/LeetCode2/tree/master/2069-walking-robot-simulation-ii) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/zeyongj/LeetCode2/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2336-smallest-number-in-infinite-set](https://github.com/zeyongj/LeetCode2/tree/master/2336-smallest-number-in-infinite-set) |
 | [3484-design-spreadsheet](https://github.com/zeyongj/LeetCode2/tree/master/3484-design-spreadsheet) |
 ## Segment Tree
@@ -1598,6 +1602,7 @@
 ## Trie
 |  |
 | ------- |
+| [2227-encrypt-and-decrypt-strings](https://github.com/zeyongj/LeetCode2/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/zeyongj/LeetCode2/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/zeyongj/LeetCode2/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/zeyongj/LeetCode2/tree/master/3093-longest-common-suffix-queries) |
