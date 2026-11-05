@@ -292,6 +292,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/zeyongj/LeetCode2/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1345-jump-game-iv) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/zeyongj/LeetCode2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/zeyongj/LeetCode2/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
@@ -622,6 +623,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/zeyongj/LeetCode2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/zeyongj/LeetCode2/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1146-snapshot-array](https://github.com/zeyongj/LeetCode2/tree/master/1146-snapshot-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/zeyongj/LeetCode2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/zeyongj/LeetCode2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
 | [1562-find-latest-group-of-size-m](https://github.com/zeyongj/LeetCode2/tree/master/1562-find-latest-group-of-size-m) |
@@ -1083,6 +1085,7 @@
 | [1288-remove-covered-intervals](https://github.com/zeyongj/LeetCode2/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/zeyongj/LeetCode2/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/zeyongj/LeetCode2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/zeyongj/LeetCode2/tree/master/1387-sort-integers-by-the-power-value) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/zeyongj/LeetCode2/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1471,6 +1474,7 @@
 | [0838-push-dominoes](https://github.com/zeyongj/LeetCode2/tree/master/0838-push-dominoes) |
 | [0844-backspace-string-compare](https://github.com/zeyongj/LeetCode2/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/zeyongj/LeetCode2/tree/master/0942-di-string-match) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/zeyongj/LeetCode2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/zeyongj/LeetCode2/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1754-largest-merge-of-two-strings](https://github.com/zeyongj/LeetCode2/tree/master/1754-largest-merge-of-two-strings) |
 | [1782-count-pairs-of-nodes](https://github.com/zeyongj/LeetCode2/tree/master/1782-count-pairs-of-nodes) |
