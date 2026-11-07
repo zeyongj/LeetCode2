@@ -332,6 +332,7 @@
 | [1861-rotating-the-box](https://github.com/zeyongj/LeetCode2/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/zeyongj/LeetCode2/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/zeyongj/LeetCode2/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/zeyongj/LeetCode2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1914-cyclically-rotating-a-grid) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/zeyongj/LeetCode2/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -753,6 +754,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/zeyongj/LeetCode2/tree/master/1488-avoid-flood-in-the-city) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/zeyongj/LeetCode2/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/zeyongj/LeetCode2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/zeyongj/LeetCode2/tree/master/2336-smallest-number-in-infinite-set) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/zeyongj/LeetCode2/tree/master/2343-query-kth-smallest-trimmed-number) |
