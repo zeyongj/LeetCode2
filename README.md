@@ -376,6 +376,7 @@
 | [2454-next-greater-element-iv](https://github.com/zeyongj/LeetCode2/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/zeyongj/LeetCode2/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/zeyongj/LeetCode2/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/zeyongj/LeetCode2/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zeyongj/LeetCode2/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/zeyongj/LeetCode2/tree/master/2540-minimum-common-value) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/zeyongj/LeetCode2/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -647,6 +648,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/zeyongj/LeetCode2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2454-next-greater-element-iv](https://github.com/zeyongj/LeetCode2/tree/master/2454-next-greater-element-iv) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/zeyongj/LeetCode2/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zeyongj/LeetCode2/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/zeyongj/LeetCode2/tree/master/2540-minimum-common-value) |
 | [2565-subsequence-with-the-minimum-score](https://github.com/zeyongj/LeetCode2/tree/master/2565-subsequence-with-the-minimum-score) |
@@ -716,6 +718,7 @@
 | [2405-optimal-partition-of-string](https://github.com/zeyongj/LeetCode2/tree/master/2405-optimal-partition-of-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/zeyongj/LeetCode2/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/zeyongj/LeetCode2/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/zeyongj/LeetCode2/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2561-rearranging-fruits](https://github.com/zeyongj/LeetCode2/tree/master/2561-rearranging-fruits) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/zeyongj/LeetCode2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/zeyongj/LeetCode2/tree/master/2573-find-the-string-with-lcp) |
@@ -1129,6 +1132,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/zeyongj/LeetCode2/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2454-next-greater-element-iv](https://github.com/zeyongj/LeetCode2/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/zeyongj/LeetCode2/tree/master/2463-minimum-total-distance-traveled) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/zeyongj/LeetCode2/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2561-rearranging-fruits](https://github.com/zeyongj/LeetCode2/tree/master/2561-rearranging-fruits) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/zeyongj/LeetCode2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/zeyongj/LeetCode2/tree/master/2580-count-ways-to-group-overlapping-ranges) |
