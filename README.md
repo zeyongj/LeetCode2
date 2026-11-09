@@ -164,6 +164,7 @@
 | [0877-stone-game](https://github.com/zeyongj/LeetCode2/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/zeyongj/LeetCode2/tree/master/0913-cat-and-mouse) |
 | [0940-distinct-subsequences-ii](https://github.com/zeyongj/LeetCode2/tree/master/0940-distinct-subsequences-ii) |
+| [0978-longest-turbulent-subarray](https://github.com/zeyongj/LeetCode2/tree/master/0978-longest-turbulent-subarray) |
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/zeyongj/LeetCode2/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/zeyongj/LeetCode2/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -277,6 +278,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/zeyongj/LeetCode2/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0966-vowel-spellchecker](https://github.com/zeyongj/LeetCode2/tree/master/0966-vowel-spellchecker) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0978-longest-turbulent-subarray](https://github.com/zeyongj/LeetCode2/tree/master/0978-longest-turbulent-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1019-next-greater-node-in-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
@@ -1584,6 +1586,7 @@
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeyongj/LeetCode2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/zeyongj/LeetCode2/tree/master/0904-fruit-into-baskets) |
+| [0978-longest-turbulent-subarray](https://github.com/zeyongj/LeetCode2/tree/master/0978-longest-turbulent-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zeyongj/LeetCode2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/zeyongj/LeetCode2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
