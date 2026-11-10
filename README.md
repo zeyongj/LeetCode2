@@ -223,6 +223,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/zeyongj/LeetCode2/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/zeyongj/LeetCode2/tree/master/3665-twisted-mirror-path-count) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/zeyongj/LeetCode2/tree/master/3685-subsequence-sum-after-capping-elements) |
+| [3693-climbing-stairs-ii](https://github.com/zeyongj/LeetCode2/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/zeyongj/LeetCode2/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -501,6 +502,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/zeyongj/LeetCode2/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/zeyongj/LeetCode2/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3693-climbing-stairs-ii](https://github.com/zeyongj/LeetCode2/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/zeyongj/LeetCode2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/zeyongj/LeetCode2/tree/master/3715-sum-of-perfect-square-ancestors) |
