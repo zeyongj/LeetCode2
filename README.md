@@ -438,6 +438,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/zeyongj/LeetCode2/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/zeyongj/LeetCode2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/zeyongj/LeetCode2/tree/master/3093-longest-common-suffix-queries) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/zeyongj/LeetCode2/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zeyongj/LeetCode2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/zeyongj/LeetCode2/tree/master/3161-block-placement-queries) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/zeyongj/LeetCode2/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
