@@ -426,6 +426,7 @@
 | [2931-maximum-spending-after-buying-items](https://github.com/zeyongj/LeetCode2/tree/master/2931-maximum-spending-after-buying-items) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeyongj/LeetCode2/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2951-find-the-peaks](https://github.com/zeyongj/LeetCode2/tree/master/2951-find-the-peaks) |
+| [2954-count-the-number-of-infection-sequences](https://github.com/zeyongj/LeetCode2/tree/master/2954-count-the-number-of-infection-sequences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/zeyongj/LeetCode2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/zeyongj/LeetCode2/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [2974-minimum-number-game](https://github.com/zeyongj/LeetCode2/tree/master/2974-minimum-number-game) |
@@ -882,6 +883,7 @@
 | [2709-greatest-common-divisor-traversal](https://github.com/zeyongj/LeetCode2/tree/master/2709-greatest-common-divisor-traversal) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/zeyongj/LeetCode2/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/zeyongj/LeetCode2/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [2954-count-the-number-of-infection-sequences](https://github.com/zeyongj/LeetCode2/tree/master/2954-count-the-number-of-infection-sequences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zeyongj/LeetCode2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zeyongj/LeetCode2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zeyongj/LeetCode2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1707,6 +1709,7 @@
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/zeyongj/LeetCode2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/zeyongj/LeetCode2/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2954-count-the-number-of-infection-sequences](https://github.com/zeyongj/LeetCode2/tree/master/2954-count-the-number-of-infection-sequences) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zeyongj/LeetCode2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/zeyongj/LeetCode2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -1836,4 +1839,5 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/zeyongj/LeetCode2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2954-count-the-number-of-infection-sequences](https://github.com/zeyongj/LeetCode2/tree/master/2954-count-the-number-of-infection-sequences) |
 <!---LeetCode Topics End-->
