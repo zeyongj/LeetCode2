@@ -42,6 +42,7 @@
 | [0966-vowel-spellchecker](https://github.com/zeyongj/LeetCode2/tree/master/0966-vowel-spellchecker) |
 | [0972-equal-rational-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0972-equal-rational-numbers) |
 | [1021-remove-outermost-parentheses](https://github.com/zeyongj/LeetCode2/tree/master/1021-remove-outermost-parentheses) |
+| [1078-occurrences-after-bigram](https://github.com/zeyongj/LeetCode2/tree/master/1078-occurrences-after-bigram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeyongj/LeetCode2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/zeyongj/LeetCode2/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/zeyongj/LeetCode2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
