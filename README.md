@@ -285,6 +285,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/zeyongj/LeetCode2/tree/master/0978-longest-turbulent-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1019-next-greater-node-in-linked-list](https://github.com/zeyongj/LeetCode2/tree/master/1019-next-greater-node-in-linked-list) |
+| [1051-height-checker](https://github.com/zeyongj/LeetCode2/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
 | [1146-snapshot-array](https://github.com/zeyongj/LeetCode2/tree/master/1146-snapshot-array) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/zeyongj/LeetCode2/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
@@ -1121,6 +1122,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/zeyongj/LeetCode2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/zeyongj/LeetCode2/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/zeyongj/LeetCode2/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1051-height-checker](https://github.com/zeyongj/LeetCode2/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/zeyongj/LeetCode2/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/zeyongj/LeetCode2/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1331-rank-transform-of-an-array) |
@@ -1705,6 +1707,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/zeyongj/LeetCode2/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/zeyongj/LeetCode2/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/zeyongj/LeetCode2/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
@@ -1854,4 +1857,8 @@
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/zeyongj/LeetCode2/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2954-count-the-number-of-infection-sequences](https://github.com/zeyongj/LeetCode2/tree/master/2954-count-the-number-of-infection-sequences) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/zeyongj/LeetCode2/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
