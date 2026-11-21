@@ -213,6 +213,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/zeyongj/LeetCode2/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode2/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3441-minimum-cost-good-caption](https://github.com/zeyongj/LeetCode2/tree/master/3441-minimum-cost-good-caption) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/zeyongj/LeetCode2/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/zeyongj/LeetCode2/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/zeyongj/LeetCode2/tree/master/3519-count-numbers-with-non-decreasing-digits) |
@@ -469,6 +470,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/zeyongj/LeetCode2/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/zeyongj/LeetCode2/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/zeyongj/LeetCode2/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/zeyongj/LeetCode2/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/zeyongj/LeetCode2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/zeyongj/LeetCode2/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -907,6 +909,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/zeyongj/LeetCode2/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/zeyongj/LeetCode2/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3404-count-special-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3404-count-special-subsequences) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/zeyongj/LeetCode2/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/zeyongj/LeetCode2/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/zeyongj/LeetCode2/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -963,6 +966,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/zeyongj/LeetCode2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/zeyongj/LeetCode2/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/zeyongj/LeetCode2/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/zeyongj/LeetCode2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zeyongj/LeetCode2/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/zeyongj/LeetCode2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1512,6 +1516,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/zeyongj/LeetCode2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/zeyongj/LeetCode2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/zeyongj/LeetCode2/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/zeyongj/LeetCode2/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zeyongj/LeetCode2/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3671-sum-of-beautiful-subsequences](https://github.com/zeyongj/LeetCode2/tree/master/3671-sum-of-beautiful-subsequences) |
@@ -1710,6 +1715,7 @@
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/zeyongj/LeetCode2/tree/master/0805-split-array-with-same-average) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/zeyongj/LeetCode2/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
