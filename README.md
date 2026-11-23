@@ -310,6 +310,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/zeyongj/LeetCode2/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/zeyongj/LeetCode2/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/zeyongj/LeetCode2/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/zeyongj/LeetCode2/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/zeyongj/LeetCode2/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -870,6 +871,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/zeyongj/LeetCode2/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/zeyongj/LeetCode2/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/zeyongj/LeetCode2/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/zeyongj/LeetCode2/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/zeyongj/LeetCode2/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -1030,6 +1032,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/zeyongj/LeetCode2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/zeyongj/LeetCode2/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1140-stone-game-ii](https://github.com/zeyongj/LeetCode2/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/zeyongj/LeetCode2/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/zeyongj/LeetCode2/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/zeyongj/LeetCode2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1493,6 +1496,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/zeyongj/LeetCode2/tree/master/0449-serialize-and-deserialize-bst) |
 | [0715-range-module](https://github.com/zeyongj/LeetCode2/tree/master/0715-range-module) |
 | [1146-snapshot-array](https://github.com/zeyongj/LeetCode2/tree/master/1146-snapshot-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/zeyongj/LeetCode2/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/zeyongj/LeetCode2/tree/master/2069-walking-robot-simulation-ii) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/zeyongj/LeetCode2/tree/master/2227-encrypt-and-decrypt-strings) |
@@ -1899,4 +1903,8 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/zeyongj/LeetCode2/tree/master/0337-house-robber-iii) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
