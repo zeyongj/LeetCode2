@@ -137,6 +137,7 @@
 | [3714-longest-balanced-substring-ii](https://github.com/zeyongj/LeetCode2/tree/master/3714-longest-balanced-substring-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/zeyongj/LeetCode2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/zeyongj/LeetCode2/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/zeyongj/LeetCode2/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/zeyongj/LeetCode2/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3799-word-squares-ii](https://github.com/zeyongj/LeetCode2/tree/master/3799-word-squares-ii) |
 | [3838-weighted-word-mapping](https://github.com/zeyongj/LeetCode2/tree/master/3838-weighted-word-mapping) |
@@ -839,6 +840,7 @@
 | [3715-sum-of-perfect-square-ancestors](https://github.com/zeyongj/LeetCode2/tree/master/3715-sum-of-perfect-square-ancestors) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/zeyongj/LeetCode2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeyongj/LeetCode2/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/zeyongj/LeetCode2/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Math
 |  |
 | ------- |
@@ -1248,6 +1250,7 @@
 | [2454-next-greater-element-iv](https://github.com/zeyongj/LeetCode2/tree/master/2454-next-greater-element-iv) |
 | [2751-robot-collisions](https://github.com/zeyongj/LeetCode2/tree/master/2751-robot-collisions) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/zeyongj/LeetCode2/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/zeyongj/LeetCode2/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3834-merge-adjacent-equal-elements](https://github.com/zeyongj/LeetCode2/tree/master/3834-merge-adjacent-equal-elements) |
 ## Tree
 |  |
