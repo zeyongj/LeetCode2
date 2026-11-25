@@ -556,6 +556,7 @@
 | [3903-smallest-stable-index-i](https://github.com/zeyongj/LeetCode2/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/zeyongj/LeetCode2/tree/master/3904-smallest-stable-index-ii) |
 | [3912-valid-elements-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/3912-valid-elements-in-an-array) |
+| [3934-smallest-unique-subarray](https://github.com/zeyongj/LeetCode2/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/zeyongj/LeetCode2/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -660,6 +661,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/zeyongj/LeetCode2/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-smallest-all-ones-multiple](https://github.com/zeyongj/LeetCode2/tree/master/3790-smallest-all-ones-multiple) |
 | [3853-merge-close-characters](https://github.com/zeyongj/LeetCode2/tree/master/3853-merge-close-characters) |
+| [3934-smallest-unique-subarray](https://github.com/zeyongj/LeetCode2/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -711,6 +713,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/zeyongj/LeetCode2/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3814-maximum-capacity-within-budget](https://github.com/zeyongj/LeetCode2/tree/master/3814-maximum-capacity-within-budget) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/zeyongj/LeetCode2/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
+| [3934-smallest-unique-subarray](https://github.com/zeyongj/LeetCode2/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -1918,4 +1921,16 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/zeyongj/LeetCode2/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/zeyongj/LeetCode2/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/zeyongj/LeetCode2/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/zeyongj/LeetCode2/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
