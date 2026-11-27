@@ -244,6 +244,7 @@
 | [3840-house-robber-v](https://github.com/zeyongj/LeetCode2/tree/master/3840-house-robber-v) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/zeyongj/LeetCode2/tree/master/3869-count-fancy-numbers-in-a-range) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/zeyongj/LeetCode2/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/zeyongj/LeetCode2/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Array
 |  |
 | ------- |
@@ -558,6 +559,7 @@
 | [3912-valid-elements-in-an-array](https://github.com/zeyongj/LeetCode2/tree/master/3912-valid-elements-in-an-array) |
 | [3934-smallest-unique-subarray](https://github.com/zeyongj/LeetCode2/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/zeyongj/LeetCode2/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/zeyongj/LeetCode2/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -791,6 +793,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/zeyongj/LeetCode2/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/zeyongj/LeetCode2/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/zeyongj/LeetCode2/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/zeyongj/LeetCode2/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
